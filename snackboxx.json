@@ -1,0 +1,111 @@
+category:[ 		{ categoryId:"C101",categoryName:"Desserts",categoryImg:"",availability:"true",catDesc:" "},
+				{ categoryId:"C102",categoryName:"Puddings",categoryImg:"",availability:"true",catDesc:" "},
+				{ categoryId:"C103",categoryName:"Snacks",categoryImg:"",availability:"true",catDesc:" "}
+			]
+			
+units:[ 		{unitId:"U101",unitName:"Kilogram",unitDesc:"Killo gram",status:"true",unitSymbol:"Kg"},
+				{unitId:"U102",unitName:"gram",unitDesc:"gram",status:"true",unitSymbol:"9"},
+				{unitId:"U103",unitName:"Cup",unitDesc:"Cup",status:"true",unitSymbol:"cup"},
+				{unitId:"U104",unitName:"Jar",unitDesc:"Jar",status:"true",unitSymbol:"jar"},
+				{unitId:"U105",unitName:"Box",unitDesc:"Box",status:"true",unitSymbol:"box"},
+				{unitId:"U106",unitName:"Container",unitDesc:"Container",status:"true",unitSymbol:"Container"},
+				{unitId:"U107",unitName:"Tray",unitDesc:"Tray",status:"true",unitSymbol:"Tray"},
+			]
+products:[ 	{
+				productId:"P101",
+				categoryId:"C101",
+				productName:"Oreo Desserts Pot",
+				productImg:[ 
+						{id:1,imgUrl:""},
+						{id:2,imgUrl:""},
+						{id:3,imgUrl:""}
+						],
+				availability:"true",
+				productDesc:" ",
+				varients: [
+						varientId: "",
+						varientName: "",
+						varientDesc: "",
+						varientImg: "",
+						availability: ""
+						]
+			  
+			  
+			  },
+			]
+			
+stock:[ 	{ 		
+				productId:"P101",
+				categoryId:"C101",
+				selectedUnit:{unitId:"U106", unitName:"Container", unitDesc:"Container", status:"true", unitSymbol:"Container"},
+				varients: [
+						{	varientId:"V101A",
+							varientName:"",
+							varientDesc:"",
+							varientImg:[ 
+									{id:1,imgUrl:""},
+									{id:2,imgUrl:""},
+									{id:3,imgUrl:""}
+									],
+							availability:"true",
+							tag:"most saled",
+							mrp:500,
+							offerPrice:400,
+							offerPec:20,
+							stock:10
+						},
+						{	varientId:"V101B",
+							varientName:"",
+							varientDesc:"",
+							varientImg:[ 
+									{id:1,imgUrl:""},
+									{id:2,imgUrl:""},
+									{id:3,imgUrl:""}
+									],
+							availability:"true",
+							tag:"most saled",
+							mrp:500,
+							offerPrice:400,
+							offerPec:20,
+							stock:10
+						},
+						{	varientId:"V101C",
+							varientName:"",
+							varientDesc:"",
+							varientImg:[ 
+									{id:1,imgUrl:""},
+									{id:2,imgUrl:""},
+									{id:3,imgUrl:""}
+									],
+							availability:"true",
+							tag:"most saled",
+							mrp:500,
+							offerPrice:400,
+							offerPec:20,
+							stock:10
+						}
+	
+						]
+			},
+			{ 		
+				productId:"P101",
+				categoryId:"C101",
+				selectedUnit:{unitId:"U106", unitName:"Container", unitDesc:"Container", status:"true", unitSymbol:"Container"},
+				varients: [
+						varientId:"V101A",
+						varientName:"",
+						varientDesc:"",
+						varientImg:[ 
+								{id:1,imgUrl:""},
+								{id:2,imgUrl:""},
+								{id:3,imgUrl:""}
+								],
+						availability:"true",
+						mrp:500,
+						offerPrice:400,
+						offerPec:20,
+						stock:10
+	
+						]
+			},
+		]
