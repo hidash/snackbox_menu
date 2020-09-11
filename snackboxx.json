@@ -154,7 +154,7 @@
 		{
 			"categoryId": "C103",
 			"categoryName": "Snacks",
-			"categoryImg": "",
+			"categoryImg": "https://secureservercdn.net/104.238.71.109/294.4fa.myftpupload.com/wp-content/uploads/2016/09/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [
@@ -291,7 +291,7 @@
 					"productId": "P102",
 					"categoryId": "C103",
 					"productName": "Pazham Nirachathu",
-					"productimgUrl": "",
+					"productimgUrl": "https://secureservercdn.net/104.238.71.109/294.4fa.myftpupload.com/wp-content/uploads/2016/09/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
 					"productDesc": " ",
 					"availability": "true",
 					"selectedUnit": {
