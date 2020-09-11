@@ -1,111 +1,1266 @@
-category:[ 		{ categoryId:"C101",categoryName:"Desserts",categoryImg:"",availability:"true",catDesc:" "},
-				{ categoryId:"C102",categoryName:"Puddings",categoryImg:"",availability:"true",catDesc:" "},
-				{ categoryId:"C103",categoryName:"Snacks",categoryImg:"",availability:"true",catDesc:" "}
-			]
-			
-units:[ 		{unitId:"U101",unitName:"Kilogram",unitDesc:"Killo gram",status:"true",unitSymbol:"Kg"},
-				{unitId:"U102",unitName:"gram",unitDesc:"gram",status:"true",unitSymbol:"9"},
-				{unitId:"U103",unitName:"Cup",unitDesc:"Cup",status:"true",unitSymbol:"cup"},
-				{unitId:"U104",unitName:"Jar",unitDesc:"Jar",status:"true",unitSymbol:"jar"},
-				{unitId:"U105",unitName:"Box",unitDesc:"Box",status:"true",unitSymbol:"box"},
-				{unitId:"U106",unitName:"Container",unitDesc:"Container",status:"true",unitSymbol:"Container"},
-				{unitId:"U107",unitName:"Tray",unitDesc:"Tray",status:"true",unitSymbol:"Tray"},
-			]
-products:[ 	{
-				productId:"P101",
-				categoryId:"C101",
-				productName:"Oreo Desserts Pot",
-				productImg:[ 
-						{id:1,imgUrl:""},
-						{id:2,imgUrl:""},
-						{id:3,imgUrl:""}
-						],
-				availability:"true",
-				productDesc:" ",
-				varients: [
-						varientId: "",
-						varientName: "",
-						varientDesc: "",
-						varientImg: "",
-						availability: ""
-						]
-			  
-			  
-			  },
-			]
-			
-stock:[ 	{ 		
-				productId:"P101",
-				categoryId:"C101",
-				selectedUnit:{unitId:"U106", unitName:"Container", unitDesc:"Container", status:"true", unitSymbol:"Container"},
-				varients: [
-						{	varientId:"V101A",
-							varientName:"",
-							varientDesc:"",
-							varientImg:[ 
-									{id:1,imgUrl:""},
-									{id:2,imgUrl:""},
-									{id:3,imgUrl:""}
-									],
-							availability:"true",
-							tag:"most saled",
-							mrp:500,
-							offerPrice:400,
-							offerPec:20,
-							stock:10
+{
+	"category": [
+		{
+			"categoryId": "C101",
+			"categoryName": "Desserts",
+			"categoryImg": "",
+			"availability": "true",
+			"catDesc": " ",
+			"products": [
+				{
+					"productId": "P101",
+					"categoryId": "C101",
+					"productName": "Oreo Desserts Pot",
+					"productDesc": "Oreo Desserts Pot",
+					"availability": "true",
+					"productimgUrl": "",
+					"selectedUnit": {
+						"unitId": "U106",
+						"unitName": "Container",
+						"unitDesc": "Container",
+						"status": "true",
+						"unitSymbol": "Container"
+					},
+					"variants": [
+						{
+							"variantId": "V101A",
+							"variantName": "",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 500,
+							"minQty": 1,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
 						},
-						{	varientId:"V101B",
-							varientName:"",
-							varientDesc:"",
-							varientImg:[ 
-									{id:1,imgUrl:""},
-									{id:2,imgUrl:""},
-									{id:3,imgUrl:""}
-									],
-							availability:"true",
-							tag:"most saled",
-							mrp:500,
-							offerPrice:400,
-							offerPec:20,
-							stock:10
+						{
+							"variantId": "V101B",
+							"variantName": "",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 500,
+							"minQty": 1,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
 						},
-						{	varientId:"V101C",
-							varientName:"",
-							varientDesc:"",
-							varientImg:[ 
-									{id:1,imgUrl:""},
-									{id:2,imgUrl:""},
-									{id:3,imgUrl:""}
-									],
-							availability:"true",
-							tag:"most saled",
-							mrp:500,
-							offerPrice:400,
-							offerPec:20,
-							stock:10
+						{
+							"variantId": "V101C",
+							"variantName": "",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 500,
+							"minQty": 1,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
 						}
-	
-						]
-			},
-			{ 		
-				productId:"P101",
-				categoryId:"C101",
-				selectedUnit:{unitId:"U106", unitName:"Container", unitDesc:"Container", status:"true", unitSymbol:"Container"},
-				varients: [
-						varientId:"V101A",
-						varientName:"",
-						varientDesc:"",
-						varientImg:[ 
-								{id:1,imgUrl:""},
-								{id:2,imgUrl:""},
-								{id:3,imgUrl:""}
-								],
-						availability:"true",
-						mrp:500,
-						offerPrice:400,
-						offerPec:20,
-						stock:10
-	
-						]
-			},
-		]
+					]
+				},
+				{
+					"productId": "P101",
+					"categoryId": "C101",
+					"productName": "Oreo Desserts Pot",
+					"productDesc": " ",
+					"availability": "true",
+					"productimgUrl": "",
+					"selectedUnit": {
+						"unitId": "U106",
+						"unitName": "Container",
+						"unitDesc": "Container",
+						"status": "true",
+						"unitSymbol": "Container"
+					},
+					"variants": [
+						{
+							"variantId": "V101A",
+							"variantName": "",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 500,
+							"minQty": 1,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
+						}
+					]
+				}
+			]
+		},
+		{
+			"categoryId": "C103",
+			"categoryName": "Snacks",
+			"categoryImg": "",
+			"availability": "true",
+			"catDesc": " ",
+			"products": [
+				{
+					"productId": "P101",
+					"categoryId": "C103",
+					"productName": "Chatti pathiri",
+					"productDesc": "Chatti pathiri",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Kg",
+						"unitDesc": "Kg",
+						"status": "true",
+						"unitSymbol": "kg"
+					},
+					"variants": [
+						{
+							"variantId": "V101A",
+							"variantName": "Sweet-Large",
+							"dispName": "Chatti pathiri Sweet-Large",
+							"variantDesc": "Sweet",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 500,
+							"minQty": 1,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
+						},
+						{
+							"variantId": "V101B",
+							"variantName": "Sweet-Medium",
+							"dispName": "Chatti pathiri Sweet-Medium",
+							"variantDesc": "Sweet-Medium",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "850Kg",
+							"mrp": 450,
+							"minQty": 1,
+							"offerPrice": 360,
+							"offerPec": 20,
+							"stock": 10
+						},
+						{
+							"variantId": "V101C",
+							"variantName": "Spicy-Large",
+							"dispName": "Chatti pathiri Spicy-Large",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"minQty": 1,
+							"mrp": 500,
+							"offerPrice": 400,
+							"offerPec": 20,
+							"stock": 10
+						},
+						{
+							"variantId": "V101C",
+							"variantName": "Spicy-Medium",
+							"dispName": "Chatti pathiri Spicy-Medium",
+							"variantDesc": "",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "850Kg",
+							"mrp": 450,
+							"minQty": 1,
+							"offerPrice": 360,
+							"offerPec": 20,
+							"stock": 10
+						}
+					]
+				},
+				{
+					"productId": "P102",
+					"categoryId": "C103",
+					"productName": "Pazham Nirachathu",
+					"productimgUrl": "",
+					"productDesc": " ",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Piece",
+						"unitDesc": "Piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Pazham Nirachathu-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 25,
+							"offerPrice": 25,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P103",
+					"categoryId": "C103",
+					"productName": "Unna Kkaya",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Unna Kkaya-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 25,
+							"offerPrice": 25,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P104",
+					"categoryId": "C103",
+					"productName": "Shawarma Ball",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Shawarma Ball-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 30,
+							"offerPrice": 30,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P105",
+					"categoryId": "C103",
+					"productName": "Thakkara petti",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Thakkara petti-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 20,
+							"offerPrice": 18,
+							"offerPec": 10,
+							"minQty": 10,
+							"stock": 100
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Thakkara Petti-MiniBox(5 Piece)",
+							"variantName": "MiniBox(5 Piece)",
+							"variantDesc": "MiniBox",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 100,
+							"offerPrice": 90,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 10
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Thakkara Petti-Box(10 Piece)",
+							"variantName": "Box(10 Piece)",
+							"variantDesc": "Box",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 200,
+							"offerPrice": 160,
+							"offerPec": 20,
+							"minQty": 1,
+							"stock": 10
+						}
+					]
+				},
+				{
+					"productId": "P106",
+					"categoryId": "C103",
+					"productName": "Samoosa",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Chicken Samoosa-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 12,
+							"offerPrice": 12,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						},
+						{
+							"variantId": "V102B",
+							"dispName": "Veg Samoosa-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 10,
+							"offerPrice": 10,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P107",
+					"categoryId": "C103",
+					"productName": "Steamed Chicken Pathiri",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Steamed Chicken Pathiri-Large",
+							"variantName": "Large",
+							"variantDesc": "Large",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 18,
+							"offerPrice": 15,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Steamed Chicken Pathiri-Medium",
+							"variantName": "Medium",
+							"variantDesc": "Medium",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 15,
+							"offerPrice": 12,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P108",
+					"categoryId": "C103",
+					"productName": "Steamed Chicken Pathiri",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "piece",
+						"unitDesc": "piece",
+						"status": "true",
+						"unitSymbol": "piece"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Steamed Chicken Pathiri-Large",
+							"variantName": "Large",
+							"variantDesc": "Large",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 18,
+							"offerPrice": 15,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						},
+						{
+							"variantId": "V102B",
+							"dispName": "Steamed Chicken Pathiri-Medium",
+							"variantName": "Medium",
+							"variantDesc": "Medium",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 15,
+							"offerPrice": 12,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						}
+					]
+				},
+				{
+					"productId": "P109",
+					"categoryId": "C103",
+					"productName": "Kunji Pathal",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Kg",
+						"unitDesc": "Kg",
+						"status": "true",
+						"unitSymbol": "kg"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Kunji Pathal",
+							"variantName": "Box",
+							"variantDesc": "Box",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 60,
+							"offerPrice": 54,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 100
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Kunji Pathal ",
+							"variantName": "Kg",
+							"variantDesc": "Kg",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 15
+						}
+					]
+				},
+				{
+					"productId": "P110",
+					"categoryId": "C103",
+					"productName": "Puyyapla kozhi",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "1Full",
+						"unitDesc": "1Full",
+						"status": "true",
+						"unitSymbol": "1Full"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Puyyapla kozhi - Normal",
+							"variantName": "Puyyapla kozhi - Normal",
+							"variantDesc": "Normal",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 450,
+							"offerPrice": 405,
+							"offerPec": 10,
+							"minQty": 2,
+							"stock": 20
+						},{
+							"variantId": "V102A",
+							"dispName": "Puyyapla kozhi- Spring",
+							"variantName": "Puyyapla kozhi -Spring",
+							"variantDesc": "Spring",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 450,
+							"offerPrice": 405,
+							"offerPec": 10,
+							"minQty": 2,
+							"stock": 20
+						}
+					]
+				},
+				{
+					"productId": "P111",
+					"categoryId": "C103",
+					"productName": " Pastha",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Item",
+						"unitDesc": "Item",
+						"status": "true",
+						"unitSymbol": "Item"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Alfrado Pastha",
+							"variantName": "Alfrado Pastha",
+							"variantDesc": "Alfrado",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 450,
+							"offerPrice": 405,
+							"offerPec": 10,
+							"minQty": 2,
+							"stock": 20
+						},{
+							"variantId": "V102A",
+							"dispName": "Puyyapla kozhi- Spring",
+							"variantName": "Puyyapla kozhi -Spring",
+							"variantDesc": "Spring",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 450,
+							"offerPrice": 405,
+							"offerPec": 10,
+							"minQty": 2,
+							"stock": 20
+						}
+					]
+				},
+				{
+					"productId": "P112",
+					"categoryId": "C103",
+					"productName": "Kozhi Ada",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Item",
+						"unitDesc": "Item",
+						"status": "true",
+						"unitSymbol": "Item"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Kozhi Ada-Single",
+							"variantName": "Kozhi Ada-Single",
+							"variantDesc": "Kozhi Ada-Single",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 20,
+							"offerPrice": 20,
+							"offerPec": 0,
+							"minQty": 10,
+							"stock": 100
+						},{
+							"variantId": "V102A",
+							"dispName": "Kozhi Ada- Box(10 piece)",
+							"variantName": "Kozhi Ada- Box(10 piece)",
+							"variantDesc": "Kozhi Ada- Box(10 piece)",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 200,
+							"offerPrice": 180,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 20
+						}
+					]
+				},
+				{
+					"productId": "P113",
+					"categoryId": "C103",
+					"productName": "Mutta maala",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Box",
+						"unitDesc": "Box",
+						"status": "true",
+						"unitSymbol": "Box"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Mutta maala",
+							"variantName": "Mutta maala-box",
+							"variantDesc": "Mutta maala-box",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 20
+						},{
+							"variantId": "V102A",
+							"dispName": "Mutta maala-Tray",
+							"variantName": "Mutta maala-Tray",
+							"variantDesc": "Mutta maala-Tray",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 500,
+							"offerPrice": 450,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 5
+						}
+					]
+				},
+				{
+					"productId": "P114",
+					"categoryId": "C103",
+					"productName": "Mutta Surka",
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "Box",
+						"unitDesc": "Box",
+						"status": "true",
+						"unitSymbol": "Box"
+					},
+					"variants": [
+						{
+							"variantId": "V102A",
+							"dispName": "Mutta Surka",
+							"variantName": "Mutta Surka-box",
+							"variantDesc": "Mutta Surka-box",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 20
+						},{
+							"variantId": "V102A",
+							"dispName": "Mutta Surka-Tray",
+							"variantName": "Mutta Surka-Tray",
+							"variantDesc": "Mutta Surka-Tray",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 500,
+							"offerPrice": 450,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 5
+						}
+					]
+				}
+			]
+		},
+		{
+			"categoryId": "C102",
+			"categoryName": "Puddings",
+			"categoryImg": "",
+			"availability": "true",
+			"catDesc": " "
+		}
+	],
+
+	"units": [
+		{
+			"unitId": "U101",
+			"unitName": "Kilo gram",
+			"unitDesc": "Kilo gram",
+			"status": "true",
+			"unitSymbol": "Kg"
+		},
+		{
+			"unitId": "U102",
+			"unitName": "gram",
+			"unitDesc": "gram",
+			"status": "true",
+			"unitSymbol": "9"
+		},
+
+		{
+			"unitId": "U103",
+			"unitName": "Cup",
+			"unitDesc": "Cup",
+			"status": "true",
+			"unitSymbol": "cup"
+		},
+		{
+			"unitId": "U104",
+			"unitName": "Jar",
+			"unitDesc": "Jar",
+			"status": "true",
+			"unitSymbol": "jar"
+		},
+		{
+			"unitId": "U105",
+			"unitName": "Box",
+			"unitDesc": "Box",
+			"status": "true",
+			"unitSymbol": "box"
+		},
+		{
+			"unitId": "U106",
+			"unitName": "Container",
+			"unitDesc": "Container",
+			"status": "true",
+			"unitSymbol": "Container"
+		},
+		{
+			"unitId": "U107",
+			"unitName": "Tray",
+			"unitDesc": "Tray",
+			"status": "true",
+			"unitSymbol": "Tray"
+		},{
+			"unitId": "U108",
+			"unitName": "Litter",
+			"unitDesc": "Litter",
+			"status": "true",
+			"unitSymbol": "L"
+		},{
+			"unitId": "U109",
+			"unitName": "Milli Litter",
+			"unitDesc": "Milli Litter",
+			"status": "true",
+			"unitSymbol": "ml"
+		},{
+			"unitId": "U110",
+			"unitName": "Piece",
+			"unitDesc": "Piece",
+			"status": "true",
+			"unitSymbol": "piece"
+		},{
+			"unitId": "U110",
+			"unitName": "Box",
+			"unitDesc": "Box",
+			"status": "true",
+			"unitSymbol": "box"
+		}
+	]
+
+}
