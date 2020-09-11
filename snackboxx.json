@@ -111,7 +111,7 @@
 					"productName": "Oreo Desserts Pot",
 					"productDesc": " ",
 					"availability": "true",
-					"productimgUrl": "https://thebakingexplorer.com/wp-content/uploads/2019/03/IMG_2228-Copy-1400x1458.jpg",
+					"productimgUrl": "",
 					"selectedUnit": {
 						"unitId": "U106",
 						"unitName": "Container",
@@ -154,7 +154,7 @@
 		{
 			"categoryId": "C103",
 			"categoryName": "Snacks",
-			"categoryImg": "https://secureservercdn.net/104.238.71.109/294.4fa.myftpupload.com/wp-content/uploads/2016/09/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [
