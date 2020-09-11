@@ -13,7 +13,7 @@
 					"productName": "Oreo Desserts Pot",
 					"productDesc": "Oreo Desserts Pot",
 					"availability": "true",
-					"productimgUrl": "https://thebakingexplorer.com/wp-content/uploads/2019/03/IMG_2228-Copy-1400x1458.jpg",
+					"productimgUrl": "",
 					"selectedUnit": {
 						"unitId": "U106",
 						"unitName": "Container",
@@ -291,7 +291,7 @@
 					"productId": "P102",
 					"categoryId": "C103",
 					"productName": "Pazham Nirachathu",
-					"productimgUrl": "https://secureservercdn.net/104.238.71.109/294.4fa.myftpupload.com/wp-content/uploads/2016/09/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productimgUrl": "",
 					"productDesc": " ",
 					"availability": "true",
 					"selectedUnit": {
@@ -892,7 +892,7 @@
 					"categoryId": "C103",
 					"productName": " Pastha",
 					"productDesc": " ",
-					"productimgUrl": "https://secureservercdn.net/104.238.71.109/294.4fa.myftpupload.com/wp-content/uploads/2016/09/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productimgUrl": "",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
