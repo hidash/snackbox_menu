@@ -13,7 +13,7 @@
 					"productName": "Oreo Desserts Pot",
 					"productDesc": "Oreo Desserts Pot",
 					"availability": "true",
-					"productimgUrl": "https://www.spicebangla.com/wp-content/uploads/2018/11/maxresdefault-1-large.jpg",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"selectedUnit": {
 						"unitId": "U106",
 						"unitName": "Container",
@@ -29,7 +29,7 @@
 							"variantImg": [
 								{
 									"id": 1,
-									"imgUrl": ""
+									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
 								{
 									"id": 2,
@@ -56,7 +56,7 @@
 							"variantImg": [
 								{
 									"id": 1,
-									"imgUrl": ""
+									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
 								{
 									"id": 2,
@@ -111,7 +111,7 @@
 					"productName": "Oreo Desserts Pot",
 					"productDesc": " ",
 					"availability": "true",
-					"productimgUrl": "",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"selectedUnit": {
 						"unitId": "U106",
 						"unitName": "Container",
@@ -163,7 +163,7 @@
 					"categoryId": "C103",
 					"productName": "Chatti pathiri",
 					"productDesc": "Chatti pathiri",
-					"productimgUrl": "https://image.shutterstock.com/image-photo/parippu-vada-samosa-two-popular-600w-1460693258.jpg",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -291,7 +291,7 @@
 					"productId": "P102",
 					"categoryId": "C103",
 					"productName": "Pazham Nirachathu",
-					"productimgUrl": "",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"productDesc": " ",
 					"availability": "true",
 					"selectedUnit": {
@@ -528,7 +528,7 @@
 					"categoryId": "C103",
 					"productName": "Samoosa",
 					"productDesc": " ",
-					"productimgUrl": "",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
