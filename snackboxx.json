@@ -929,33 +929,6 @@
 							"offerPec": 10,
 							"minQty": 2,
 							"stock": 20
-						},{
-							"variantId": "V102A",
-							"dispName": "Puyyapla kozhi- Spring",
-							"variantName": "Puyyapla kozhi -Spring",
-							"variantDesc": "Spring",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 450,
-							"offerPrice": 405,
-							"offerPec": 10,
-							"minQty": 2,
-							"stock": 20
 						}
 					]
 				},
@@ -1034,8 +1007,8 @@
 				{
 					"productId": "P113",
 					"categoryId": "C103",
-					"productName": "Mutta maala",
-					"productDesc": " ",
+					"productName": "Mutta maala & Mutta Surka",
+					"productDesc": "Mutta maala & Mutta Surka",
 					"productimgUrl": "",
 					"availability": "true",
 					"selectedUnit": {
@@ -1048,9 +1021,9 @@
 					"variants": [
 						{
 							"variantId": "V102A",
-							"dispName": "Mutta maala",
-							"variantName": "Mutta maala-box",
-							"variantDesc": "Mutta maala-box",
+							"dispName": "Mutta maala & Mutta Surka",
+							"variantName": "Mutta maala & Mutta Surka-box",
+							"variantDesc": "Mutta maala & Mutta Surka-box",
 							"variantImg": [
 								{
 									"id": 1,
@@ -1073,51 +1046,7 @@
 							"offerPec": 10,
 							"minQty": 1,
 							"stock": 20
-						},{
-							"variantId": "V102A",
-							"dispName": "Mutta maala-Tray",
-							"variantName": "Mutta maala-Tray",
-							"variantDesc": "Mutta maala-Tray",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 500,
-							"offerPrice": 450,
-							"offerPec": 10,
-							"minQty": 1,
-							"stock": 5
-						}
-					]
-				},
-				{
-					"productId": "P114",
-					"categoryId": "C103",
-					"productName": "Mutta Surka",
-					"productDesc": " ",
-					"productimgUrl": "",
-					"availability": "true",
-					"selectedUnit": {
-						"unitId": "U101",
-						"unitName": "Box",
-						"unitDesc": "Box",
-						"status": "true",
-						"unitSymbol": "Box"
-					},
-					"variants": [
+						},
 						{
 							"variantId": "V102A",
 							"dispName": "Mutta Surka",
@@ -1145,7 +1074,64 @@
 							"offerPec": 10,
 							"minQty": 1,
 							"stock": 20
-						},{
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Mutta maala-Tray",
+							"variantName": "Mutta maala-Tray",
+							"variantDesc": "Mutta maala-Tray",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 500,
+							"offerPrice": 450,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 5
+						},
+						{
+							"variantId": "V102A",
+							"dispName": "Mutta Surka",
+							"variantName": "Mutta Surka-box",
+							"variantDesc": "Mutta Surka-box",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 20
+						},
+						{
 							"variantId": "V102A",
 							"dispName": "Mutta Surka-Tray",
 							"variantName": "Mutta Surka-Tray",
@@ -1173,8 +1159,9 @@
 							"minQty": 1,
 							"stock": 5
 						}
+					
 					]
-				}
+				} 
 			]
 		},
 		{
