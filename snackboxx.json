@@ -377,7 +377,7 @@
 							"variantId": "P302A",
 							"dispName": "Pazham Nirachathu-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Pazham Nirachathu-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -405,7 +405,7 @@
 							"variantId": "P302B",
 							"dispName": "Pazham Nirachathu-Box",
 							"variantName": "5 Full peice",
-							"variantDesc": "5 Full peice",
+							"variantDesc": "Pazham Nirachathu-Box(5 Full Piece)",
 							"variantImg": [
 								{
 									"id": 1,
@@ -450,7 +450,7 @@
 							"variantId": "P303A",
 							"dispName": "Unna Kkaya-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Unna Kkaya-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -495,7 +495,7 @@
 							"variantId": "P304A",
 							"dispName": "Shawarma Ball-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Shawarma Ball-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -540,7 +540,7 @@
 							"variantId": "P305A",
 							"dispName": "Thakkara petti-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Thakkara petti-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -568,7 +568,7 @@
 							"variantId": "P305B",
 							"dispName": "Thakkara Petti-MiniBox(5 Piece)",
 							"variantName": "MiniBox(5 Piece)",
-							"variantDesc": "MiniBox",
+							"variantDesc": "Thakkara Petti-MiniBox(5 Piece)",
 							"variantImg": [
 								{
 									"id": 1,
@@ -596,7 +596,7 @@
 							"variantId": "P305C",
 							"dispName": "Thakkara Petti-Box(10 Piece)",
 							"variantName": "Box(10 Piece)",
-							"variantDesc": "Box",
+							"variantDesc": "Thakkara Petti-Box(10 Piece)",
 							"variantImg": [
 								{
 									"id": 1,
@@ -641,7 +641,7 @@
 							"variantId": "P306A",
 							"dispName": "Chicken Samoosa-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Chicken Samoosa-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -669,7 +669,7 @@
 							"variantId": "P306B",
 							"dispName": "Veg Samoosa-Single",
 							"variantName": "Single",
-							"variantDesc": "Single",
+							"variantDesc": "Veg Samoosa-Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -714,7 +714,7 @@
 							"variantId": "P307A",
 							"dispName": "Steamed Chicken Pathiri-Large",
 							"variantName": "Large",
-							"variantDesc": "Large",
+							"variantDesc": "Steamed Chicken Pathiri-Large",
 							"variantImg": [
 								{
 									"id": 1,
@@ -742,7 +742,7 @@
 							"variantId": "P307B",
 							"dispName": "Steamed Chicken Pathiri-Medium",
 							"variantName": "Medium",
-							"variantDesc": "Medium",
+							"variantDesc": "Steamed Chicken Pathiri-Medium",
 							"variantImg": [
 								{
 									"id": 1,
@@ -785,7 +785,7 @@
 					"variants": [
 						{
 							"variantId": "P308A",
-							"dispName": "Pocket Shawarma-Single",
+							"dispName": "Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
 							"variantImg": [
@@ -814,7 +814,7 @@
 						{
 							"variantId": "P308B",
 							"dispName": "Pocket Shawarma-Box",
-							"variantName": "Pocket Shawarma-Box",
+							"variantName": "Box(5 piece)",
 							"variantDesc": "5 x Pocket Shawarma",
 							"variantImg": [
 								{
@@ -859,7 +859,7 @@
 						{
 							"variantId": "P309A",
 							"dispName": "Kunji Pathal-Box",
-							"variantName": "Kunji Pathal-Box",
+							"variantName": "Box",
 							"variantDesc": "Kunji Pathal-Box (500 g)",
 							"variantImg": [
 								{
@@ -887,8 +887,8 @@
 						{
 							"variantId": "P309B",
 							"dispName": "Kunji Pathal 1 KG",
-							"variantName": "Kg",
-							"variantDesc": "Kg",
+							"variantName": "1Kg",
+							"variantDesc": "Kunji Pathal  1Kg",
 							"variantImg": [
 								{
 									"id": 1,
@@ -932,7 +932,7 @@
 						{
 							"variantId": "P110A",
 							"dispName": "Puyyapla kozhi - Normal",
-							"variantName": "Puyyapla kozhi - Normal",
+							"variantName": "Normal",
 							"variantDesc": "Normal",
 							"variantImg": [
 								{
@@ -959,7 +959,7 @@
 						},{
 							"variantId": "P110B",
 							"dispName": "Puyyapla kozhi- Spring",
-							"variantName": "Puyyapla kozhi -Spring",
+							"variantName": "Spring",
 							"variantDesc": "Spring",
 							"variantImg": [
 								{
@@ -1049,7 +1049,7 @@
 						{
 							"variantId": "P112A",
 							"dispName": "Kozhi Ada-Single",
-							"variantName": "Kozhi Ada-Single",
+							"variantName": "Single",
 							"variantDesc": "Kozhi Ada-Single",
 							"variantImg": [
 								{
@@ -1076,7 +1076,7 @@
 						},{
 							"variantId": "P112B",
 							"dispName": "Kozhi Ada- Box(10 piece)",
-							"variantName": "Kozhi Ada- Box(10 piece)",
+							"variantName": "Box(10 piece)",
 							"variantDesc": "Kozhi Ada- Box(10 piece)",
 							"variantImg": [
 								{
@@ -1121,8 +1121,8 @@
 						{
 							"variantId": "P113A",
 							"dispName": "Mutta maala & Surka",
-							"variantName": "Mutta maala & Surka-box",
-							"variantDesc": "Mutta maala & Surka-box",
+							"variantName": "Combo-box",
+							"variantDesc": "Mutta maala & Surka Combo-box",
 							"variantImg": [
 								{
 									"id": 1,
