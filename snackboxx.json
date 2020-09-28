@@ -23,9 +23,9 @@
 					},
 					"variants": [
 						{
-							"variantId": "V101A",
-							"variantName": "",
-							"variantDesc": "",
+							"variantId": "P101A",
+							"variantName": "Oreo Desserts Pot",
+							"variantDesc": "Oreo Desserts Pot in disposible glass",
 							"variantImg": [
 								{
 									"id": 1,
@@ -43,16 +43,16 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "1.2Kg",
-							"mrp": 500,
+							"mrp": 200,
 							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
+							"offerPrice": 180,
+							"offerPec": 10,
 							"stock": 10
 						},
 						{
-							"variantId": "V101B",
-							"variantName": "",
-							"variantDesc": "",
+							"variantId": "P101B",
+							"variantName": "Oreo Desserts Pot-Jar",
+							"variantDesc": "Oreo Desserts Pot-Jar",
 							"variantImg": [
 								{
 									"id": 1,
@@ -70,45 +70,89 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "1.2Kg",
-							"mrp": 500,
+							"mrp": 230,
 							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						},
-						{
-							"variantId": "V101C",
-							"variantName": "",
-							"variantDesc": "",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
+							"offerPrice": 200,
+							"offerPec": 10,
+							"stock": 13
 						}
 					]
 				},
 				{
-					"productId": "P101",
+					"productId": "P102",
 					"categoryId": "C101",
-					"productName": "Oreo Desserts Pot",
+					"productName": "Chocolate Mousse",
+					"productDesc": "Chocolate Mousse",
+					"availability": "true",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
+					"selectedUnit": {
+						"unitId": "U106",
+						"unitName": "Container",
+						"unitDesc": "Container",
+						"status": "true",
+						"unitSymbol": "Container"
+					},
+					"variants": [
+						{
+							"variantId": "P102A",
+							"variantName": "Chocolate Mousse",
+							"variantDesc": "Chocolate Mousse in disposible glass",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 200,
+							"minQty": 1,
+							"offerPrice": 180,
+							"offerPec": 10,
+							"stock": 10
+						},
+						{
+							"variantId": "P102B",
+							"variantName": "Chocolate Oreo Mousse Jar",
+							"variantDesc": "Chocolate Oreo Mousse Jar",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 230,
+							"minQty": 1,
+							"offerPrice": 200,
+							"offerPec": 10,
+							"stock": 13
+						}
+					]
+				},
+				{
+					"productId": "P103",
+					"categoryId": "C101",
+					"productName": "Custard",
 					"productDesc": " ",
 					"availability": "true",
 					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
@@ -121,9 +165,9 @@
 					},
 					"variants": [
 						{
-							"variantId": "V101A",
-							"variantName": "",
-							"variantDesc": "",
+							"variantId": "P103A",
+							"variantName": "Fruit Custard Salad",
+							"variantDesc": "Fruit Custard Salad",
 							"variantImg": [
 								{
 									"id": 1,
@@ -141,10 +185,37 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "1.2Kg",
-							"mrp": 500,
+							"mrp": 75,
 							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
+							"offerPrice": 70,
+							"offerPec": 6.6,
+							"stock": 10
+						},
+						{
+							"variantId": "P103B",
+							"variantName": "Chocolate Fruit Custard Salad",
+							"variantDesc": "Chocolate Fruit Custard Salad",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 85,
+							"minQty": 1,
+							"offerPrice": 75,
+							"offerPec": 11.7,
 							"stock": 10
 						}
 					]
@@ -159,7 +230,7 @@
 			"catDesc": " ",
 			"products": [
 				{
-					"productId": "P101",
+					"productId": "P301",
 					"categoryId": "C103",
 					"productName": "Chatti pathiri",
 					"productDesc": "Chatti pathiri",
@@ -174,10 +245,10 @@
 					},
 					"variants": [
 						{
-							"variantId": "V101A",
-							"variantName": "Sweet-Large",
+							"variantId": "P301A",
+							"variantName": "Chatti pathiri Sweet-Large",
 							"dispName": "Chatti pathiri Sweet-Large",
-							"variantDesc": "Sweet",
+							"variantDesc": "Sweet-Large Version",
 							"variantImg": [
 								{
 									"id": 1,
@@ -202,10 +273,10 @@
 							"stock": 10
 						},
 						{
-							"variantId": "V101B",
+							"variantId": "P301B",
 							"variantName": "Sweet-Medium",
 							"dispName": "Chatti pathiri Sweet-Medium",
-							"variantDesc": "Sweet-Medium",
+							"variantDesc": "Sweet-Medium Version",
 							"variantImg": [
 								{
 									"id": 1,
@@ -230,7 +301,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "V101C",
+							"variantId": "P301C",
 							"variantName": "Spicy-Large",
 							"dispName": "Chatti pathiri Spicy-Large",
 							"variantDesc": "",
@@ -258,7 +329,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "V101C",
+							"variantId": "P301D",
 							"variantName": "Spicy-Medium",
 							"dispName": "Chatti pathiri Spicy-Medium",
 							"variantDesc": "",
@@ -288,7 +359,7 @@
 					]
 				},
 				{
-					"productId": "P102",
+					"productId": "P302",
 					"categoryId": "C103",
 					"productName": "Pazham Nirachathu",
 					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
@@ -303,7 +374,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P302A",
 							"dispName": "Pazham Nirachathu-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -324,16 +395,44 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "1.2Kg",
-							"mrp": 25,
-							"offerPrice": 25,
-							"offerPec": 0,
+							"mrp": 30,
+							"offerPrice": 27,
+							"offerPec": 10,
 							"minQty": 10,
 							"stock": 100
+						},
+						{
+							"variantId": "P302B",
+							"dispName": "Pazham Nirachathu-Box",
+							"variantName": "5 Full peice",
+							"variantDesc": "5 Full peice",
+							"variantImg": [
+								{
+									"id": 1,
+									"imgUrl": ""
+								},
+								{
+									"id": 2,
+									"imgUrl": ""
+								},
+								{
+									"id": 3,
+									"imgUrl": ""
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "1.2Kg",
+							"mrp": 150,
+							"offerPrice": 132,
+							"offerPec": 12,
+							"minQty": 1,
+							"stock": 10
 						}
 					]
 				},
 				{
-					"productId": "P103",
+					"productId": "P303",
 					"categoryId": "C103",
 					"productName": "Unna Kkaya",
 					"productDesc": " ",
@@ -348,7 +447,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P303A",
 							"dispName": "Unna Kkaya-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -369,16 +468,16 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 25,
-							"offerPrice": 25,
-							"offerPec": 0,
+							"mrp": 20,
+							"offerPrice": 16,
+							"offerPec": 20,
 							"minQty": 10,
 							"stock": 100
 						}
 					]
 				},
 				{
-					"productId": "P104",
+					"productId": "P304",
 					"categoryId": "C103",
 					"productName": "Shawarma Ball",
 					"productDesc": " ",
@@ -393,7 +492,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P304A",
 							"dispName": "Shawarma Ball-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -415,15 +514,15 @@
 							"tag": "most sale",
 							"weight": "0",
 							"mrp": 30,
-							"offerPrice": 30,
-							"offerPec": 0,
+							"offerPrice": 27,
+							"offerPec": 10,
 							"minQty": 10,
 							"stock": 100
 						}
 					]
 				},
 				{
-					"productId": "P105",
+					"productId": "P305",
 					"categoryId": "C103",
 					"productName": "Thakkara petti",
 					"productDesc": " ",
@@ -438,7 +537,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P305A",
 							"dispName": "Thakkara petti-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -466,7 +565,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P305B",
 							"dispName": "Thakkara Petti-MiniBox(5 Piece)",
 							"variantName": "MiniBox(5 Piece)",
 							"variantDesc": "MiniBox",
@@ -488,13 +587,13 @@
 							"tag": "most sale",
 							"weight": "0",
 							"mrp": 100,
-							"offerPrice": 90,
-							"offerPec": 10,
+							"offerPrice": 85,
+							"offerPec": 15,
 							"minQty": 1,
 							"stock": 10
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P305C",
 							"dispName": "Thakkara Petti-Box(10 Piece)",
 							"variantName": "Box(10 Piece)",
 							"variantDesc": "Box",
@@ -524,7 +623,7 @@
 					]
 				},
 				{
-					"productId": "P106",
+					"productId": "P306",
 					"categoryId": "C103",
 					"productName": "Samoosa",
 					"productDesc": " ",
@@ -539,7 +638,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P306A",
 							"dispName": "Chicken Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -567,7 +666,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "V102B",
+							"variantId": "P306B",
 							"dispName": "Veg Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -597,7 +696,7 @@
 					]
 				},
 				{
-					"productId": "P107",
+					"productId": "P307",
 					"categoryId": "C103",
 					"productName": "Steamed Chicken Pathiri",
 					"productDesc": " ",
@@ -612,7 +711,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P307A",
 							"dispName": "Steamed Chicken Pathiri-Large",
 							"variantName": "Large",
 							"variantDesc": "Large",
@@ -640,7 +739,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P307B",
 							"dispName": "Steamed Chicken Pathiri-Medium",
 							"variantName": "Medium",
 							"variantDesc": "Medium",
@@ -670,9 +769,9 @@
 					]
 				},
 				{
-					"productId": "P108",
+					"productId": "P308",
 					"categoryId": "C103",
-					"productName": "Steamed Chicken Pathiri",
+					"productName": "Pocket Shawarma",
 					"productDesc": " ",
 					"productimgUrl": "https://i.ibb.co/tKLFMMN/pocketshawarma1.jpg",
 					"availability": "true",
@@ -685,10 +784,10 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
-							"dispName": "Steamed Chicken Pathiri-Large",
-							"variantName": "Large",
-							"variantDesc": "Large",
+							"variantId": "P308A",
+							"dispName": "Pocket Shawarma-Single",
+							"variantName": "Single",
+							"variantDesc": "Single",
 							"variantImg": [
 								{
 									"id": 1,
@@ -706,17 +805,17 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 18,
-							"offerPrice": 15,
+							"mrp": 30,
+							"offerPrice": 30,
 							"offerPec": 0,
 							"minQty": 10,
 							"stock": 100
 						},
 						{
-							"variantId": "V102B",
-							"dispName": "Steamed Chicken Pathiri-Medium",
-							"variantName": "Medium",
-							"variantDesc": "Medium",
+							"variantId": "P308B",
+							"dispName": "Pocket Shawarma-Box",
+							"variantName": "Pocket Shawarma-Box",
+							"variantDesc": "5 x Pocket Shawarma",
 							"variantImg": [
 								{
 									"id": 1,
@@ -734,16 +833,16 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 15,
-							"offerPrice": 12,
+							"mrp": 150,
+							"offerPrice": 140,
 							"offerPec": 0,
-							"minQty": 10,
-							"stock": 100
+							"minQty": 1,
+							"stock": 10
 						}
 					]
 				},
 				{
-					"productId": "P109",
+					"productId": "P309",
 					"categoryId": "C103",
 					"productName": "Kunji Pathal",
 					"productDesc": " ",
@@ -758,10 +857,10 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
-							"dispName": "Kunji Pathal",
-							"variantName": "Box",
-							"variantDesc": "Box",
+							"variantId": "P309A",
+							"dispName": "Kunji Pathal-Box",
+							"variantName": "Kunji Pathal-Box",
+							"variantDesc": "Kunji Pathal-Box (500 g)",
 							"variantImg": [
 								{
 									"id": 1,
@@ -779,15 +878,15 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 60,
-							"offerPrice": 54,
-							"offerPec": 10,
+							"mrp": 100,
+							"offerPrice": 80,
+							"offerPec": 20,
 							"minQty": 1,
 							"stock": 100
 						},
 						{
-							"variantId": "V102A",
-							"dispName": "Kunji Pathal ",
+							"variantId": "P309B",
+							"dispName": "Kunji Pathal 1 KG",
 							"variantName": "Kg",
 							"variantDesc": "Kg",
 							"variantImg": [
@@ -807,8 +906,8 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 150,
-							"offerPrice": 135,
+							"mrp": 200,
+							"offerPrice": 180,
 							"offerPec": 10,
 							"minQty": 1,
 							"stock": 15
@@ -831,7 +930,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P110A",
 							"dispName": "Puyyapla kozhi - Normal",
 							"variantName": "Puyyapla kozhi - Normal",
 							"variantDesc": "Normal",
@@ -858,14 +957,14 @@
 							"minQty": 2,
 							"stock": 20
 						},{
-							"variantId": "V102A",
+							"variantId": "P110B",
 							"dispName": "Puyyapla kozhi- Spring",
 							"variantName": "Puyyapla kozhi -Spring",
 							"variantDesc": "Spring",
 							"variantImg": [
 								{
 									"id": 1,
-									"imgUrl": ""
+									"imgUrl"	: ""
 								},
 								{
 									"id": 2,
@@ -903,7 +1002,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P111A",
 							"dispName": "Alfrado Pastha",
 							"variantName": "Alfrado Pastha",
 							"variantDesc": "Alfrado",
@@ -948,7 +1047,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P112A",
 							"dispName": "Kozhi Ada-Single",
 							"variantName": "Kozhi Ada-Single",
 							"variantDesc": "Kozhi Ada-Single",
@@ -975,7 +1074,7 @@
 							"minQty": 10,
 							"stock": 100
 						},{
-							"variantId": "V102A",
+							"variantId": "P112B",
 							"dispName": "Kozhi Ada- Box(10 piece)",
 							"variantName": "Kozhi Ada- Box(10 piece)",
 							"variantDesc": "Kozhi Ada- Box(10 piece)",
@@ -1020,7 +1119,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "V102A",
+							"variantId": "P113A",
 							"dispName": "Mutta maala & Mutta Surka",
 							"variantName": "Mutta maala & Mutta Surka-box",
 							"variantDesc": "Mutta maala & Mutta Surka-box",
@@ -1048,7 +1147,7 @@
 							"stock": 20
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P113B",
 							"dispName": "Mutta Surka",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
@@ -1076,7 +1175,7 @@
 							"stock": 20
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P113C",
 							"dispName": "Mutta maala-Tray",
 							"variantName": "Mutta maala-Tray",
 							"variantDesc": "Mutta maala-Tray",
@@ -1104,7 +1203,7 @@
 							"stock": 5
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P113D",
 							"dispName": "Mutta Surka",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
@@ -1132,7 +1231,7 @@
 							"stock": 20
 						},
 						{
-							"variantId": "V102A",
+							"variantId": "P113E",
 							"dispName": "Mutta Surka-Tray",
 							"variantName": "Mutta Surka-Tray",
 							"variantDesc": "Mutta Surka-Tray",
