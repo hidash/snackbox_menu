@@ -1106,8 +1106,8 @@
 				{
 					"productId": "P113",
 					"categoryId": "C103",
-					"productName": "Mutta maala & Mutta Surka",
-					"productDesc": "Mutta maala & Mutta Surka",
+					"productName": "Mutta maala & \nMutta Surka",
+					"productDesc": "Mutta maala & \nMutta Surka",
 					"productimgUrl": "",
 					"availability": "true",
 					"selectedUnit": {
@@ -1120,9 +1120,9 @@
 					"variants": [
 						{
 							"variantId": "P113A",
-							"dispName": "Mutta maala & Mutta Surka",
-							"variantName": "Mutta maala & Mutta Surka-box",
-							"variantDesc": "Mutta maala & Mutta Surka-box",
+							"dispName": "Mutta maala & \nMutta Surka",
+							"variantName": "Mutta maala & \nMutta Surka-box",
+							"variantDesc": "Mutta maala & \nMutta Surka-box",
 							"variantImg": [
 								{
 									"id": 1,
