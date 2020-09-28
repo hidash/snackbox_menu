@@ -246,7 +246,7 @@
 					"variants": [
 						{
 							"variantId": "P301A",
-							"variantName": "Chatti pathiri Sweet-Large",
+							"variantName": "Sweet-Large",
 							"dispName": "Chatti pathiri Sweet-Large",
 							"variantDesc": "Sweet-Large Version",
 							"variantImg": [
@@ -403,7 +403,7 @@
 						},
 						{
 							"variantId": "P302B",
-							"dispName": "Pazham Nirachathu-Box",
+							"dispName": "Pazham Nirachathu-Box (5 Full Piece)",
 							"variantName": "5 Full peice",
 							"variantDesc": "Pazham Nirachathu-Box(5 Full Piece)",
 							"variantImg": [
@@ -785,7 +785,7 @@
 					"variants": [
 						{
 							"variantId": "P308A",
-							"dispName": "Single",
+							"dispName": "Pocket Shawarma Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
 							"variantImg": [
@@ -1120,7 +1120,7 @@
 					"variants": [
 						{
 							"variantId": "P113A",
-							"dispName": "Mutta maala & Surka",
+							"dispName": "Mutta maala & Surka Combo-box",
 							"variantName": "Combo-box",
 							"variantDesc": "Mutta maala & Surka Combo-box",
 							"variantImg": [
@@ -1148,7 +1148,7 @@
 						},
 						{
 							"variantId": "P113B",
-							"dispName": "Mutta Surka",
+							"dispName": "Mutta Surka-box",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
 							"variantImg": [
@@ -1204,7 +1204,7 @@
 						},
 						{
 							"variantId": "P113D",
-							"dispName": "Mutta Surka",
+							"dispName": "Mutta Surka-box",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
 							"variantImg": [
