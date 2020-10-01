@@ -1,11 +1,10 @@
 {
 	"pickUpAddress":"SNACK BOX, Opp: Kundayi Juma-Musjid, Palangad-Narikkuni,kozhikode,673572 ",
-	"deliverySettings":{
-						"preOrderHr":"6",
-						"freeOrderKm":"3",
-						"deliveryChargePerKm":"8",
-						"deliveryTimeSlote":["8am-10am",10am-12pm",4pm-6pm",7pm-8pm"]
-						},
+	"deliverySettings":{	"preOrderHr":"6",
+				"freeOrderKm":"3",
+				"deliveryChargePerKm":"8",
+				"deliveryTimeSlote":["8am-10am",10am-12pm",4pm-6pm",7pm-8pm"]
+			},
 	"pincode":[673612,673613,673615,673616,673315,673317,673571,673572,673573,673574,673585],
 	"category": [
 		{
