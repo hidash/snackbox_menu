@@ -1,7 +1,6 @@
 {
 	"pickUpAddress":"SNACK BOX, Opp: Kundayi Juma-Musjid, Palangad-Narikkuni,kozhikode,673572 ",
 	"deliverySettings":{
-	
 						"startLat":"6",
 						"startLong":"3",
 						"preOrderHr":"6",
@@ -12,19 +11,19 @@
 	"pincode":[673612,673613,673615,673616,673315,673317,673571,673572,673573,673574,673585],
 	"category": [
 		{
-			"categoryId": "C101",
+			"categoryId": "C301",
 			"categoryName": "Desserts",
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [
 				{
-					"productId": "P101",
-					"categoryId": "C101",
+					"productId": "P301",
+					"categoryId": "C301",
 					"productName": "Oreo Desserts Pot",
 					"productDesc": "Oreo Desserts Pot",
 					"availability": "true",
-					"productimgUrl": "https://photos.app.goo.gl/ELpMw7q3kdiyEfED9",
+					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
 					"selectedUnit": {
 						"unitId": "U106",
 						"unitName": "Container",
@@ -34,7 +33,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P101A",
+							"variantId": "P301A",
 							"variantName": "Oreo Desserts Pot",
 							"variantDesc": "Oreo Desserts Pot in disposible glass",
 							"variantImg": [
@@ -61,7 +60,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P101B",
+							"variantId": "P301B",
 							"variantName": "Oreo Desserts Pot-Jar",
 							"variantDesc": "Oreo Desserts Pot-Jar",
 							"variantImg": [
@@ -90,7 +89,7 @@
 					]
 				},
 				{
-					"productId": "P102",
+					"productId": "P302",
 					"categoryId": "C101",
 					"productName": "Chocolate Mousse",
 					"productDesc": "Chocolate Mousse",
@@ -105,7 +104,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P102A",
+							"variantId": "P302A",
 							"variantName": "Chocolate Mousse",
 							"variantDesc": "Chocolate Mousse in disposible glass",
 							"variantImg": [
@@ -132,7 +131,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P102B",
+							"variantId": "P302B",
 							"variantName": "Chocolate Oreo Mousse Jar",
 							"variantDesc": "Chocolate Oreo Mousse Jar",
 							"variantImg": [
@@ -161,8 +160,8 @@
 					]
 				},
 				{
-					"productId": "P103",
-					"categoryId": "C101",
+					"productId": "P303",
+					"categoryId": "C301",
 					"productName": "Custard",
 					"productDesc": " ",
 					"availability": "true",
@@ -176,7 +175,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P103A",
+							"variantId": "P303A",
 							"variantName": "Fruit Custard Salad",
 							"variantDesc": "Fruit Custard Salad",
 							"variantImg": [
@@ -203,7 +202,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P103B",
+							"variantId": "P303B",
 							"variantName": "Chocolate Fruit Custard Salad",
 							"variantDesc": "Chocolate Fruit Custard Salad",
 							"variantImg": [
@@ -234,18 +233,18 @@
 			]
 		},
 		{
-			"categoryId": "C103",
+			"categoryId": "C101",
 			"categoryName": "Snacks",
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [
 				{
-					"productId": "P301",
-					"categoryId": "C103",
+					"productId": "P101",
+					"categoryId": "C101",
 					"productName": "Chatti pathiri",
 					"productDesc": "Chatti pathiri",
-					"productimgUrl": "https://photos.app.goo.gl/CFKsUFQ5aZ2w4Vxi9",
+					"productimgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -256,14 +255,14 @@
 					},
 					"variants": [
 						{
-							"variantId": "P301A",
+							"variantId": "P101A",
 							"variantName": "Sweet-Large",
 							"dispName": "Chatti pathiri Sweet-Large",
 							"variantDesc": "Sweet-Large Version",
 							"variantImg": [
 								{
 									"id": 1,
-									"imgUrl": "https://photos.app.goo.gl/CFKsUFQ5aZ2w4Vxi9"
+									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
 								},
 								{
 									"id": 2,
@@ -284,7 +283,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P301B",
+							"variantId": "P101B",
 							"variantName": "Sweet-Medium",
 							"dispName": "Chatti pathiri Sweet-Medium",
 							"variantDesc": "Sweet-Medium Version",
@@ -312,7 +311,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P301C",
+							"variantId": "P101C",
 							"variantName": "Spicy-Large",
 							"dispName": "Chatti pathiri Spicy-Large",
 							"variantDesc": "",
@@ -340,7 +339,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P301D",
+							"variantId": "P101D",
 							"variantName": "Spicy-Medium",
 							"dispName": "Chatti pathiri Spicy-Medium",
 							"variantDesc": "",
@@ -370,7 +369,7 @@
 					]
 				},
 				{
-					"productId": "P302",
+					"productId": "P102",
 					"categoryId": "C103",
 					"productName": "Pazham Nirachathu",
 					"productimgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png",
@@ -385,7 +384,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P302A",
+							"variantId": "P102A",
 							"dispName": "Pazham Nirachathu-Single",
 							"variantName": "Single",
 							"variantDesc": "Pazham Nirachathu-Single",
@@ -413,7 +412,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P302B",
+							"variantId": "P102B",
 							"dispName": "Pazham Nirachathu-Box (5 Full Piece)",
 							"variantName": "5 Full peice",
 							"variantDesc": "Pazham Nirachathu-Box(5 Full Piece)",
@@ -443,11 +442,11 @@
 					]
 				},
 				{
-					"productId": "P303",
+					"productId": "P103",
 					"categoryId": "C103",
 					"productName": "Unna Kkaya",
 					"productDesc": " ",
-					"productimgUrl": "https://photos.app.goo.gl/ELpMw7q3kdiyEfED9",
+					"productimgUrl": "",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -488,7 +487,7 @@
 					]
 				},
 				{
-					"productId": "P304",
+					"productId": "P104",
 					"categoryId": "C103",
 					"productName": "Shawarma Ball",
 					"productDesc": " ",
@@ -503,7 +502,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P304A",
+							"variantId": "P104A",
 							"dispName": "Shawarma Ball-Single",
 							"variantName": "Single",
 							"variantDesc": "Shawarma Ball-Single",
@@ -533,7 +532,7 @@
 					]
 				},
 				{
-					"productId": "P305",
+					"productId": "P105",
 					"categoryId": "C103",
 					"productName": "Thakkara petti",
 					"productDesc": " ",
@@ -548,7 +547,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P305A",
+							"variantId": "P105A",
 							"dispName": "Thakkara petti-Single",
 							"variantName": "Single",
 							"variantDesc": "Thakkara petti-Single",
@@ -576,7 +575,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P305B",
+							"variantId": "P105B",
 							"dispName": "Thakkara Petti-MiniBox(5 Piece)",
 							"variantName": "MiniBox(5 Piece)",
 							"variantDesc": "Thakkara Petti-MiniBox(5 Piece)",
@@ -604,7 +603,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P305C",
+							"variantId": "P105C",
 							"dispName": "Thakkara Petti-Box(10 Piece)",
 							"variantName": "Box(10 Piece)",
 							"variantDesc": "Thakkara Petti-Box(10 Piece)",
@@ -634,7 +633,7 @@
 					]
 				},
 				{
-					"productId": "P306",
+					"productId": "P106",
 					"categoryId": "C103",
 					"productName": "Samoosa",
 					"productDesc": " ",
@@ -649,7 +648,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P306A",
+							"variantId": "P106A",
 							"dispName": "Chicken Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Chicken Samoosa-Single",
@@ -677,7 +676,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P306B",
+							"variantId": "P106B",
 							"dispName": "Veg Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Veg Samoosa-Single",
@@ -707,7 +706,7 @@
 					]
 				},
 				{
-					"productId": "P307",
+					"productId": "P107",
 					"categoryId": "C103",
 					"productName": "Steamed Chicken Pathiri",
 					"productDesc": " ",
@@ -722,7 +721,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P307A",
+							"variantId": "P107A",
 							"dispName": "Steamed Chicken Pathiri-Large",
 							"variantName": "Large",
 							"variantDesc": "Steamed Chicken Pathiri-Large",
@@ -750,7 +749,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P307B",
+							"variantId": "P107B",
 							"dispName": "Steamed Chicken Pathiri-Medium",
 							"variantName": "Medium",
 							"variantDesc": "Steamed Chicken Pathiri-Medium",
@@ -780,7 +779,7 @@
 					]
 				},
 				{
-					"productId": "P308",
+					"productId": "P108",
 					"categoryId": "C103",
 					"productName": "Pocket Shawarma",
 					"productDesc": " ",
@@ -795,7 +794,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P308A",
+							"variantId": "P108A",
 							"dispName": "Pocket Shawarma Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
@@ -823,7 +822,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P308B",
+							"variantId": "P108B",
 							"dispName": "Pocket Shawarma-Box",
 							"variantName": "Box(5 piece)",
 							"variantDesc": "5 x Pocket Shawarma",
@@ -853,7 +852,7 @@
 					]
 				},
 				{
-					"productId": "P309",
+					"productId": "P109",
 					"categoryId": "C103",
 					"productName": "Kunji Pathal",
 					"productDesc": " ",
@@ -868,7 +867,7 @@
 					},
 					"variants": [
 						{
-							"variantId": "P309A",
+							"variantId": "P109A",
 							"dispName": "Kunji Pathal-Box",
 							"variantName": "Box",
 							"variantDesc": "Kunji Pathal-Box (500 g)",
@@ -896,7 +895,7 @@
 							"stock": 100
 						},
 						{
-							"variantId": "P309B",
+							"variantId": "P109B",
 							"dispName": "Kunji Pathal 1 KG",
 							"variantName": "1Kg",
 							"variantDesc": "Kunji Pathal  1Kg",
