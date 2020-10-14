@@ -996,8 +996,8 @@
 					]
 				},
 				{
-					"productId": "P302",
-					"categoryId": "C301",
+					"productId": "C3P2",
+					"categoryId": "C3",
 					"productName": "Chocolate Mousse",
 					"productDesc": "Chocolate Mousse",
 					"availability": "true",
@@ -1010,7 +1010,7 @@
 						"unitSymbol": "Container"
 					},
 					"variants": [{
-							"variantId": "P302A",
+							"variantId": "C3P2A",
 							"variantName": "Chocolate Mousse",
 							"variantDesc": "Chocolate Mousse in disposible glass",
 							"variantImg": [{
@@ -1036,7 +1036,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P302B",
+							"variantId": "C3P2B",
 							"variantName": "Chocolate Oreo Mousse Jar",
 							"variantDesc": "Chocolate Oreo Mousse Jar",
 							"variantImg": [{
@@ -1064,8 +1064,8 @@
 					]
 				},
 				{
-					"productId": "P303",
-					"categoryId": "C301",
+					"productId": "C3P3",
+					"categoryId": "C3",
 					"productName": "Custard",
 					"productDesc": " ",
 					"availability": "true",
@@ -1078,7 +1078,7 @@
 						"unitSymbol": "Container"
 					},
 					"variants": [{
-							"variantId": "P303A",
+							"variantId": "C3P3A",
 							"variantName": "Fruit Custard Salad",
 							"variantDesc": "Fruit Custard Salad",
 							"variantImg": [{
@@ -1104,7 +1104,7 @@
 							"stock": 10
 						},
 						{
-							"variantId": "P303B",
+							"variantId": "C3P3B",
 							"variantName": "Chocolate Fruit Custard Salad",
 							"variantDesc": "Chocolate Fruit Custard Salad",
 							"variantImg": [{
@@ -1788,8 +1788,7 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [
-			{
+			"products": [{
 					"productId": "C7P1",
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
