@@ -1,24 +1,23 @@
 {
-	"pickUpAddress":"SNACK BOX, Opp: Kundayi Juma-Musjid, Palangad-Narikkuni,kozhikode,673572 ",
-	"deliverySettings":{
-						"startLat":"6",
-						"startLong":"3",
-						"preOrderHr":"6",
-						"freeOrderKm":"3",
-						"deliveryChargePerKm":"8",
-						"deliveryTimeSlote":[10am-12pm,4pm-6pm]
-						},
-	"pincode":[673612,673613,673615,673616,673315,673317,673571,673572,673573,673574,673585],
+	"pickUpAddress": "SNACK BOX, Opp: Kundayi Juma-Musjid, Palangad-Narikkuni,kozhikode,673572 ",
+	"deliverySettings": {
+		"startLat": "6",
+		"startLong": "3",
+		"preOrderHr": "6",
+		"freeOrderKm": "3",
+		"deliveryChargePerKm": "8",
+		"deliveryTimeSlote": ["10 am - 12 pm", "4 pm - 6 pm"]
+	},
+	"pincode": [673612, 673613, 673615, 673616, 673315, 673317, 673571, 673572, 673573, 673574, 673585],
 	"category": [
-	
+
 		{
 			"categoryId": "C1",
 			"categoryName": "Snacks",
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [
-				{
+			"products": [{
 					"productId": "C1P1",
 					"categoryId": "C1",
 					"productName": "Chatti pathiri",
@@ -32,14 +31,12 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P1A",
 							"variantName": "Sweet-Large",
 							"dispName": "Chatti pathiri Sweet-Large",
 							"variantDesc": "Sweet-Large Version",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
 								},
@@ -66,8 +63,7 @@
 							"variantName": "Sweet-Medium",
 							"dispName": "Chatti pathiri Sweet-Medium",
 							"variantDesc": "Sweet-Medium Version",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
 								},
@@ -94,8 +90,7 @@
 							"variantName": "Spicy-Large",
 							"dispName": "Chatti pathiri Spicy-Large",
 							"variantDesc": "",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
 								},
@@ -122,8 +117,7 @@
 							"variantName": "Spicy-Medium",
 							"dispName": "Chatti pathiri Spicy-Medium",
 							"variantDesc": "",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
 								},
@@ -161,14 +155,12 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P16A",
 							"dispName": "Pazham Nirachathu-Single",
 							"variantName": "Single",
 							"variantDesc": "Pazham Nirachathu-Single",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -195,8 +187,7 @@
 							"dispName": "Pazham Nirachathu-Box (5 Full Piece)",
 							"variantName": "5 Full peice",
 							"variantDesc": "Pazham Nirachathu-Box(5 Full Piece)",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -234,36 +225,33 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
-							"variantId": "C1P6A",
-							"dispName": "Unna Kkaya-Single",
-							"variantName": "Single",
-							"variantDesc": "Unna Kkaya-Single",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 20,
-							"offerPrice": 16,
-							"offerPec": 20,
-							"minQty": 10,
-							"stock": 100
-						}
-					]
+					"variants": [{
+						"variantId": "C1P6A",
+						"dispName": "Unna Kkaya-Single",
+						"variantName": "Single",
+						"variantDesc": "Unna Kkaya-Single",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 20,
+						"offerPrice": 16,
+						"offerPec": 20,
+						"minQty": 10,
+						"stock": 100
+					}]
 				},
 				{
 					"productId": "C1P9",
@@ -279,36 +267,33 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
-							"variantId": "C1P9A",
-							"dispName": "Shawarma Ball-Single",
-							"variantName": "Single",
-							"variantDesc": "Shawarma Ball-Single",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 30,
-							"offerPrice": 27,
-							"offerPec": 10,
-							"minQty": 10,
-							"stock": 100
-						}
-					]
+					"variants": [{
+						"variantId": "C1P9A",
+						"dispName": "Shawarma Ball-Single",
+						"variantName": "Single",
+						"variantDesc": "Shawarma Ball-Single",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 30,
+						"offerPrice": 27,
+						"offerPec": 10,
+						"minQty": 10,
+						"stock": 100
+					}]
 				},
 				{
 					"productId": "C1P8",
@@ -324,14 +309,12 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P8A",
 							"dispName": "Thakkara petti-Single",
 							"variantName": "Single",
 							"variantDesc": "Thakkara petti-Single",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -358,8 +341,7 @@
 							"dispName": "Thakkara Petti-MiniBox(5 Piece)",
 							"variantName": "MiniBox(5 Piece)",
 							"variantDesc": "Thakkara Petti-MiniBox(5 Piece)",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -386,8 +368,7 @@
 							"dispName": "Thakkara Petti-Box(10 Piece)",
 							"variantName": "Box(10 Piece)",
 							"variantDesc": "Thakkara Petti-Box(10 Piece)",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -425,14 +406,12 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P7A",
 							"dispName": "Chicken Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Chicken Samoosa-Single",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -459,8 +438,7 @@
 							"dispName": "Veg Samoosa-Single",
 							"variantName": "Single",
 							"variantDesc": "Veg Samoosa-Single",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -498,14 +476,12 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P10A",
 							"dispName": "Steamed Chicken Pathiri-Large",
 							"variantName": "Large",
 							"variantDesc": "Steamed Chicken Pathiri-Large",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -532,8 +508,7 @@
 							"dispName": "Steamed Chicken Pathiri-Medium",
 							"variantName": "Medium",
 							"variantDesc": "Steamed Chicken Pathiri-Medium",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -571,14 +546,12 @@
 						"status": "true",
 						"unitSymbol": "piece"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P24A",
 							"dispName": "Pocket Shawarma Single",
 							"variantName": "Single",
 							"variantDesc": "Single",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -605,8 +578,7 @@
 							"dispName": "Pocket Shawarma-Box",
 							"variantName": "Box(5 piece)",
 							"variantDesc": "5 x Pocket Shawarma",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -644,14 +616,12 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P11A",
 							"dispName": "Kunji Pathal-Box",
 							"variantName": "Box",
 							"variantDesc": "Kunji Pathal-Box (500 g)",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -678,8 +648,7 @@
 							"dispName": "Kunji Pathal 1 KG",
 							"variantName": "1Kg",
 							"variantDesc": "Kunji Pathal  1Kg",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -706,8 +675,7 @@
 							"dispName": "MEEN PATHAL 1 KG",
 							"variantName": "1Kg",
 							"variantDesc": "MEEN PATHAL  1Kg",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -745,63 +713,59 @@
 						"status": "true",
 						"unitSymbol": "Item"
 					},
-					"variants": [
-						{
-							"variantId": "C1P20A",
-							"dispName": "Kozhi Ada-Single",
-							"variantName": "Single",
-							"variantDesc": "Kozhi Ada-Single",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 20,
-							"offerPrice": 20,
-							"offerPec": 0,
-							"minQty": 10,
-							"stock": 100
-						},{
-							"variantId": "C1P20B",
-							"dispName": "Kozhi Ada- Box(10 piece)",
-							"variantName": "Box(10 piece)",
-							"variantDesc": "Kozhi Ada- Box(10 piece)",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 200,
-							"offerPrice": 180,
-							"offerPec": 10,
-							"minQty": 1,
-							"stock": 20
-						}
-					]
+					"variants": [{
+						"variantId": "C1P20A",
+						"dispName": "Kozhi Ada-Single",
+						"variantName": "Single",
+						"variantDesc": "Kozhi Ada-Single",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 20,
+						"offerPrice": 20,
+						"offerPec": 0,
+						"minQty": 10,
+						"stock": 100
+					}, {
+						"variantId": "C1P20B",
+						"dispName": "Kozhi Ada- Box(10 piece)",
+						"variantName": "Box(10 piece)",
+						"variantDesc": "Kozhi Ada- Box(10 piece)",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 200,
+						"offerPrice": 180,
+						"offerPec": 10,
+						"minQty": 1,
+						"stock": 20
+					}]
 				},
 				{
 					"productId": "C1P17",
@@ -817,14 +781,12 @@
 						"status": "true",
 						"unitSymbol": "Box"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C1P17A",
 							"dispName": "Mutta maala & Surka Combo-box",
 							"variantName": "Combo-box",
 							"variantDesc": "Mutta maala & Surka Combo-box",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -851,8 +813,7 @@
 							"dispName": "Mutta Surka-box",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -879,8 +840,7 @@
 							"dispName": "Mutta maala-Tray",
 							"variantName": "Mutta maala-Tray",
 							"variantDesc": "Mutta maala-Tray",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -907,8 +867,7 @@
 							"dispName": "Mutta Surka-box",
 							"variantName": "Mutta Surka-box",
 							"variantDesc": "Mutta Surka-box",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -935,8 +894,7 @@
 							"dispName": "Mutta Surka-Tray",
 							"variantName": "Mutta Surka-Tray",
 							"variantDesc": "Mutta Surka-Tray",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -958,9 +916,9 @@
 							"minQty": 1,
 							"stock": 5
 						}
-					
+
 					]
-				} 
+				}
 			]
 		},
 		{
@@ -969,8 +927,7 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [
-				{
+			"products": [{
 					"productId": "C3P1",
 					"categoryId": "C3",
 					"productName": "Oreo Desserts Pot",
@@ -984,13 +941,11 @@
 						"status": "true",
 						"unitSymbol": "Container"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "C3P1A",
 							"variantName": "Oreo Desserts Pot",
 							"variantDesc": "Oreo Desserts Pot in disposible glass",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
@@ -1016,8 +971,7 @@
 							"variantId": "C3P1B",
 							"variantName": "Oreo Desserts Pot-Jar",
 							"variantDesc": "Oreo Desserts Pot-Jar",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
@@ -1055,13 +1009,11 @@
 						"status": "true",
 						"unitSymbol": "Container"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "P302A",
 							"variantName": "Chocolate Mousse",
 							"variantDesc": "Chocolate Mousse in disposible glass",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
@@ -1087,8 +1039,7 @@
 							"variantId": "P302B",
 							"variantName": "Chocolate Oreo Mousse Jar",
 							"variantDesc": "Chocolate Oreo Mousse Jar",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://i.ibb.co/ccww24D/New-Project-20.png"
 								},
@@ -1126,13 +1077,11 @@
 						"status": "true",
 						"unitSymbol": "Container"
 					},
-					"variants": [
-						{
+					"variants": [{
 							"variantId": "P303A",
 							"variantName": "Fruit Custard Salad",
 							"variantDesc": "Fruit Custard Salad",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -1158,8 +1107,7 @@
 							"variantId": "P303B",
 							"variantName": "Chocolate Fruit Custard Salad",
 							"variantDesc": "Chocolate Fruit Custard Salad",
-							"variantImg": [
-								{
+							"variantImg": [{
 									"id": 1,
 									"imgUrl": ""
 								},
@@ -1185,15 +1133,14 @@
 				}
 			]
 		},
-		
+
 		{
 			"categoryId": "C2",
 			"categoryName": "PUDDINGS",
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [
-				{
+			"products": [{
 					"productId": "C2P1",
 					"categoryId": "C2",
 					"productName": "RAFEALLO PUDDING",
@@ -1207,36 +1154,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P1A",
-							"variantName": "LARGE",
-							"dispName": "RAFEALLO PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P1A",
+						"variantName": "LARGE",
+						"dispName": "RAFEALLO PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P2",
@@ -1252,36 +1196,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P2A",
-							"variantName": "LARGE",
-							"dispName": "MARIE BUISCUT PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P2A",
+						"variantName": "LARGE",
+						"dispName": "MARIE BUISCUT PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P3",
@@ -1297,36 +1238,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P3A",
-							"variantName": "LARGE",
-							"dispName": "TENDER COCOUNET PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P3A",
+						"variantName": "LARGE",
+						"dispName": "TENDER COCOUNET PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P4",
@@ -1342,36 +1280,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P4A",
-							"variantName": "LARGE",
-							"dispName": "CAREMAL PUDDING PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P4A",
+						"variantName": "LARGE",
+						"dispName": "CAREMAL PUDDING PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P5",
@@ -1387,36 +1322,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P5A",
-							"variantName": "LARGE",
-							"dispName": "CARROT PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P5A",
+						"variantName": "LARGE",
+						"dispName": "CARROT PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P6",
@@ -1432,36 +1364,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P6A",
-							"variantName": "LARGE",
-							"dispName": "PINE APPLE PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P6A",
+						"variantName": "LARGE",
+						"dispName": "PINE APPLE PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P7",
@@ -1477,36 +1406,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P7A",
-							"variantName": "LARGE",
-							"dispName": "PISTA PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P7A",
+						"variantName": "LARGE",
+						"dispName": "PISTA PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P8",
@@ -1522,36 +1448,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P8A",
-							"variantName": "LARGE",
-							"dispName": "CHOCELTE PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P8A",
+						"variantName": "LARGE",
+						"dispName": "CHOCELTE PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P9",
@@ -1567,36 +1490,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P9A",
-							"variantName": "LARGE",
-							"dispName": "OREO PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P9A",
+						"variantName": "LARGE",
+						"dispName": "OREO PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P10",
@@ -1612,36 +1532,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P10A",
-							"variantName": "LARGE",
-							"dispName": "GLASS COCONUT PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P10A",
+						"variantName": "LARGE",
+						"dispName": "GLASS COCONUT PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P11",
@@ -1657,36 +1574,33 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P11A",
-							"variantName": "LARGE",
-							"dispName": "TENDER COCONUT PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
+					"variants": [{
+						"variantId": "C2P11A",
+						"variantName": "LARGE",
+						"dispName": "TENDER COCONUT PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
 				},
 				{
 					"productId": "C2P12",
@@ -1702,51 +1616,47 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [
-						{
-							"variantId": "C2P12A",
-							"variantName": "LARGE",
-							"dispName": "MARBIL PUDDING-Large",
-							"variantDesc": "Large Version",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								},
-								{
-									"id": 3,
-									"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "1.2Kg",
-							"mrp": 500,
-							"minQty": 1,
-							"offerPrice": 400,
-							"offerPec": 20,
-							"stock": 10
-						} 
-					]
-				},
-				
-				
-				]
+					"variants": [{
+						"variantId": "C2P12A",
+						"variantName": "LARGE",
+						"dispName": "MARBIL PUDDING-Large",
+						"variantDesc": "Large Version",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							},
+							{
+								"id": 3,
+								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "1.2Kg",
+						"mrp": 500,
+						"minQty": 1,
+						"offerPrice": 400,
+						"offerPec": 20,
+						"stock": 10
+					}]
+				}
+
+
+			]
 		},
 		{
-		
-		
+
+
 			"categoryId": "C5",
 			"categoryName": "CHICKEN SPECIAL",
 			"categoryImg": "",
 			"availability": "true",
-			"catDesc": " "
-			"products": [
-				{
+			"catDesc": " ",
+			"products": [{
 					"productId": "C5P1",
 					"categoryId": "C5",
 					"productName": "Puyyapla kozhi",
@@ -1760,77 +1670,72 @@
 						"status": "true",
 						"unitSymbol": "1Full"
 					},
-					"variants": [
-						{
-							"variantId": "C5P1A",
-							"dispName": "Puyyapla kozhi - Normal",
-							"variantName": "Normal",
-							"variantDesc": "Normal",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 450,
-							"offerPrice": 405,
-							"offerPec": 10,
-							"minQty": 2,
-							"stock": 20
-						},{
-							"variantId": "C5P1B",
-							"dispName": "Puyyapla kozhi- Spring",
-							"variantName": "Spring",
-							"variantDesc": "Spring",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl"	: ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 450,
-							"offerPrice": 405,
-							"offerPec": 10,
-							"minQty": 2,
-							"stock": 20
-						}
-					]
+					"variants": [{
+						"variantId": "C5P1A",
+						"dispName": "Puyyapla kozhi - Normal",
+						"variantName": "Normal",
+						"variantDesc": "Normal",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 450,
+						"offerPrice": 405,
+						"offerPec": 10,
+						"minQty": 2,
+						"stock": 20
+					}, {
+						"variantId": "C5P1B",
+						"dispName": "Puyyapla kozhi- Spring",
+						"variantName": "Spring",
+						"variantDesc": "Spring",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 450,
+						"offerPrice": 405,
+						"offerPec": 10,
+						"minQty": 2,
+						"stock": 20
+					}]
 				}
-		
-				]
+
+			]
 		},
 		{
-		
-		
+
+
 			"categoryId": "C6",
 			"categoryName": "FISH SPECIAL",
 			"categoryImg": "",
 			"availability": "true",
-			"catDesc": " "
-			"products": [
-				{
+			"catDesc": " ",
+			"products": [{
 					"productId": "C6P1",
 					"categoryId": "C6",
 					"productName": "MEEN POLLICHATH",
@@ -1844,50 +1749,46 @@
 						"status": "true",
 						"unitSymbol": "1Full"
 					},
-					"variants": [
-						{
-							"variantId": "C6P1A",
-							"dispName": "MEEN POLLICHATH",
-							"variantName": "Normal",
-							"variantDesc": "Normal",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 450,
-							"offerPrice": 405,
-							"offerPec": 10,
-							"minQty": 2,
-							"stock": 20
-						}
-					]
+					"variants": [{
+						"variantId": "C6P1A",
+						"dispName": "MEEN POLLICHATH",
+						"variantName": "Normal",
+						"variantDesc": "Normal",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 450,
+						"offerPrice": 405,
+						"offerPec": 10,
+						"minQty": 2,
+						"stock": 20
+					}]
 				}
-		
-				]
+
+			]
 		},
 		{
-		
-		
+
+
 			"categoryId": "C7",
 			"categoryName": "BEEF SPECIAL",
 			"categoryImg": "",
 			"availability": "true",
-			"catDesc": " "
-			"products": [
-				{
+			"catDesc": " ",
+			"products": [{
 					"productId": "C7P1",
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
@@ -1901,44 +1802,40 @@
 						"status": "true",
 						"unitSymbol": "1Full"
 					},
-					"variants": [
-						{
-							"variantId": "C7P1A",
-							"dispName": "BEEF VARATTU-PLATE",
-							"variantName": "PLATE",
-							"variantDesc": "PLATE",
-							"variantImg": [
-								{
-									"id": 1,
-									"imgUrl": ""
-								},
-								{
-									"id": 2,
-									"imgUrl": ""
-								},
-								{
-									"id": 3,
-									"imgUrl": ""
-								}
-							],
-							"availability": "true",
-							"tag": "most sale",
-							"weight": "0",
-							"mrp": 450,
-							"offerPrice": 405,
-							"offerPec": 10,
-							"minQty": 2,
-							"stock": 20
-						}
-					]
+					"variants": [{
+						"variantId": "C7P1A",
+						"dispName": "BEEF VARATTU-PLATE",
+						"variantName": "PLATE",
+						"variantDesc": "PLATE",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 450,
+						"offerPrice": 405,
+						"offerPec": 10,
+						"minQty": 2,
+						"stock": 20
+					}]
 				}
-		
-				]
+
+			]
 		}
 	],
 
-	"units": [
-		{
+	"units": [{
 			"unitId": "U101",
 			"unitName": "Kilo gram",
 			"unitDesc": "Kilo gram",
@@ -1986,25 +1883,25 @@
 			"unitDesc": "Tray",
 			"status": "true",
 			"unitSymbol": "Tray"
-		},{
+		}, {
 			"unitId": "U108",
 			"unitName": "Litter",
 			"unitDesc": "Litter",
 			"status": "true",
 			"unitSymbol": "L"
-		},{
+		}, {
 			"unitId": "U109",
 			"unitName": "Milli Litter",
 			"unitDesc": "Milli Litter",
 			"status": "true",
 			"unitSymbol": "ml"
-		},{
+		}, {
 			"unitId": "U110",
 			"unitName": "Piece",
 			"unitDesc": "Piece",
 			"status": "true",
 			"unitSymbol": "piece"
-		},{
+		}, {
 			"unitId": "U110",
 			"unitName": "Box",
 			"unitDesc": "Box",
