@@ -21,31 +21,31 @@
 					
 	}, {
 		"tabId": "2",
-		"name": "offers",
+		"name": "OFFERS",
 		"tabIcon": "",
 		"viewType":"list",
 		"tabItems": [ 
-							{"itemId":"101","itemType":"C","itemName":"SNACKS","itemImg":"","availability": "true"},
-							{"itemId":"P301","itemType":"P","itemName":"PUDDING","itemImg":"","availability": "true"},
-							{"itemId":"P301","itemType":"P","itemName":"DESSERTS","itemImg":"","availability": "true"}
+							{"itemId":"P201","itemType":"C","itemName":"SNACKS OFFERS","itemImg":"","availability": "true"},
+							{"itemId":"P202","itemType":"P","itemName":"PUDDING OFFERS","itemImg":"","availability": "true"},
+							{"itemId":"P203","itemType":"P","itemName":"DESSERTS OFFERS","itemImg":"","availability": "true"}
 						]
 					
 	}, {
 		"tabId": "3",
-		"name": "Party Orders",
+		"name": "PARTY ORDERS",
 		"tabIcon": "",
 		"viewType":"grid",
 		"tabItems": [ 
-							{"itemId":"C101","itemType":"C","itemName":"SNACKS","itemImg":"","availability": "true"},
-							{"itemId":"C102","itemType":"C","itemName":"PUDDING","itemImg":"","availability": "true"},
-							{"itemId":"C103","itemType":"C","itemName":"DESSERTS","itemImg":"","availability": "true"},
-							{"itemId":"C104","itemType":"C","itemName":"CAKES","itemImg":"","availability": "true"},
-							{"itemId":"C105","itemType":"C","itemName":"CHICKEN SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C106","itemType":"C","itemName":"FISH SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C107","itemType":"C","itemName":"BEEF SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C108","itemType":"C","itemName":"VEG SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C109","itemType":"C","itemName":"PARTY BOX","itemImg":"","availability": "true"},
-							{"itemId":"C110","itemType":"C","itemName":"RICE SPECIALS","itemImg":"","availability": "true"}
+							{"itemId":"C301","itemType":"C","itemName":"SNACKS","itemImg":"","availability": "true"},
+							{"itemId":"C302","itemType":"C","itemName":"PUDDING","itemImg":"","availability": "true"},
+							{"itemId":"C303","itemType":"C","itemName":"DESSERTS","itemImg":"","availability": "true"},
+							{"itemId":"C304","itemType":"C","itemName":"CAKES","itemImg":"","availability": "true"},
+							{"itemId":"C305","itemType":"C","itemName":"CHICKEN SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"C306","itemType":"C","itemName":"FISH SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"C307","itemType":"C","itemName":"BEEF SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"C308","itemType":"C","itemName":"VEG SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"C309","itemType":"C","itemName":"PARTY BOX","itemImg":"","availability": "true"},
+							{"itemId":"C310","itemType":"C","itemName":"RICE SPECIALS","itemImg":"","availability": "true"}
 						]
 					
 	}, {
@@ -54,16 +54,16 @@
 		"tabIcon": "",
 		"viewType":"grid",
 		"tabItems":[ 
-							{"itemId":"101","itemType":"","itemName":"SNACKS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"PUDDING","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"DESSERTS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"CAKES","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"CHICKEN SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"FISH SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"BEEF SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"VEG SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"PARTY BOX","itemImg":"","availability": "true"},
-							{"itemId":"102","itemType":"","itemName":"RICE SPECIALS","itemImg":"","availability": "true"}]
+							{"itemId":"401","itemType":"","itemName":"SNACKS","itemImg":"","availability": "true"},
+							{"itemId":"402","itemType":"","itemName":"PUDDING","itemImg":"","availability": "true"},
+							{"itemId":"403","itemType":"","itemName":"DESSERTS","itemImg":"","availability": "true"},
+							{"itemId":"404","itemType":"","itemName":"CAKES","itemImg":"","availability": "true"},
+							{"itemId":"405","itemType":"","itemName":"CHICKEN SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"406","itemType":"","itemName":"FISH SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"407","itemType":"","itemName":"BEEF SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"408","itemType":"","itemName":"VEG SPECIALS","itemImg":"","availability": "true"},
+							{"itemId":"409","itemType":"","itemName":"PARTY BOX","itemImg":"","availability": "true"},
+							{"itemId":"410","itemType":"","itemName":"RICE SPECIALS","itemImg":"","availability": "true"}]
 					
 	}
 	]
