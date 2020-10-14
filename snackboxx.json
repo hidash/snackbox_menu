@@ -1788,7 +1788,8 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [{
+			"products": [
+			{
 					"productId": "C7P1",
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
@@ -1805,6 +1806,48 @@
 					"variants": [{
 						"variantId": "C7P1A",
 						"dispName": "BEEF VARATTU-PLATE",
+						"variantName": "PLATE",
+						"variantDesc": "PLATE",
+						"variantImg": [{
+								"id": 1,
+								"imgUrl": ""
+							},
+							{
+								"id": 2,
+								"imgUrl": ""
+							},
+							{
+								"id": 3,
+								"imgUrl": ""
+							}
+						],
+						"availability": "true",
+						"tag": "most sale",
+						"weight": "0",
+						"mrp": 450,
+						"offerPrice": 405,
+						"offerPec": 10,
+						"minQty": 2,
+						"stock": 20
+					}]
+				},
+				{
+					"productId": "C7P2",
+					"categoryId": "C7",
+					"productName": "KAPPA BIRIANI,
+					"productDesc": " ",
+					"productimgUrl": "",
+					"availability": "true",
+					"selectedUnit": {
+						"unitId": "U101",
+						"unitName": "1Full",
+						"unitDesc": "1Full",
+						"status": "true",
+						"unitSymbol": "1Full"
+					},
+					"variants": [{
+						"variantId": "C7P2A",
+						"dispName": "KAPPA BIRIANI-PLATE",
 						"variantName": "PLATE",
 						"variantDesc": "PLATE",
 						"variantImg": [{
