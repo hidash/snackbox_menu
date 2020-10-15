@@ -8,7 +8,7 @@
 		"tabItems": [ 
 							{"itemId":"C1","itemType":"C","itemName":"SNACKS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png","availability": "true"},
 							{"itemId":"C2","itemType":"C","itemName":"PUDDING","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg","availability": "true"},
-							{"itemId":"C3","itemType":"C","itemName":"DESSERTS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/mini_chclate_oreo_pudding.jpg","availability": "true"},
+							{"itemId":"C3","itemType":"C","itemName":"DESSERTS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/desserts/choclate_oreo_mousse.png","availability": "true"},
 							{"itemId":"C4","itemType":"C","itemName":"CAKES","itemImg":"","availability": "true"},
 							{"itemId":"C5","itemType":"C","itemName":"CHICKEN SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png","availability": "true"},
 							{"itemId":"C6","itemType":"C","itemName":"FISH SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/fishspcl/meen_pollichath.jpg","availability": "true"},
