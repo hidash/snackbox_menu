@@ -17,7 +17,8 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [{
+			"products": [
+				{
 					"productId": "C1P1",
 					"categoryId": "C1",
 					"productName": "Chatti pathiri",
@@ -31,7 +32,8 @@
 						"status": "true",
 						"unitSymbol": "kg"
 					},
-					"variants": [{
+					"variants": [
+						{
 							"variantId": "C1P1A",
 							"variantName": "Sweet-Large",
 							"dispName": "Chatti pathiri Sweet-Large",
@@ -927,7 +929,8 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [{
+			"products": [
+				{
 					"productId": "C3P1",
 					"categoryId": "C3",
 					"productName": "Oreo Desserts Pot",
@@ -1137,15 +1140,16 @@
 		{
 			"categoryId": "C2",
 			"categoryName": "PUDDINGS",
-			"categoryImg": "",
+			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [{
+			"products": [
+				{
 					"productId": "C2P1",
 					"categoryId": "C2",
 					"productName": "RAFEALLO PUDDING",
 					"productDesc": "RAFEALLO PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1161,15 +1165,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1187,7 +1191,7 @@
 					"categoryId": "C2",
 					"productName": "MARIE BUISCUT PUDDING",
 					"productDesc": "MARIE BUISCUT PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1203,15 +1207,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1229,7 +1233,7 @@
 					"categoryId": "C2",
 					"productName": "TENDER COCOUNET PUDDING",
 					"productDesc": "TENDER COCOUNET PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1245,15 +1249,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1271,7 +1275,7 @@
 					"categoryId": "C2",
 					"productName": "CAREMAL PUDDING PUDDING",
 					"productDesc": "CAREMAL PUDDING PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1287,15 +1291,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1313,7 +1317,7 @@
 					"categoryId": "C2",
 					"productName": "CARROT PUDDING",
 					"productDesc": "CARROT PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1329,15 +1333,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1355,7 +1359,7 @@
 					"categoryId": "C2",
 					"productName": "PINE APPLE PUDDING",
 					"productDesc": "PINE APPLE PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1371,15 +1375,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1397,7 +1401,7 @@
 					"categoryId": "C2",
 					"productName": "PISTA PUDDING",
 					"productDesc": "PISTA PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1413,15 +1417,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1439,7 +1443,7 @@
 					"categoryId": "C2",
 					"productName": "CHOCELTE PUDDING",
 					"productDesc": "CHOCELTE PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1455,15 +1459,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1481,7 +1485,7 @@
 					"categoryId": "C2",
 					"productName": "OREO PUDDING",
 					"productDesc": "OREO PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1497,15 +1501,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1523,7 +1527,7 @@
 					"categoryId": "C2",
 					"productName": "GLASS COCONUT PUDDING",
 					"productDesc": "GLASS COCONUT PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1539,15 +1543,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1565,7 +1569,7 @@
 					"categoryId": "C2",
 					"productName": "TENDER COCONUT PUDDING",
 					"productDesc": "TENDER COCONUT PUDDING",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1581,15 +1585,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1607,7 +1611,7 @@
 					"categoryId": "C2",
 					"productName": "MARBIL PUDDING",
 					"productDesc": "MARBIL PUDDING ",
-					"productImgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1623,15 +1627,15 @@
 						"variantDesc": "Large Version",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://i.ibb.co/YZ7m2fc/malabar-style-athishaya-pathiri-layered-chicken-crepes1-1024x1024.jpg"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg"
 							}
 						],
 						"availability": "true",
@@ -1653,7 +1657,7 @@
 
 			"categoryId": "C5",
 			"categoryName": "CHICKEN SPECIAL",
-			"categoryImg": "",
+			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [{
@@ -1661,7 +1665,7 @@
 					"categoryId": "C5",
 					"productName": "Puyyapla kozhi",
 					"productDesc": " ",
-					"productImgUrl": "",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1677,15 +1681,15 @@
 						"variantDesc": "Normal",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 2,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhinirachath.png"
 							},
 							{
 								"id": 3,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							}
 						],
 						"availability": "true",
@@ -1703,15 +1707,15 @@
 						"variantDesc": "Spring",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 2,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhinirachath.png"
 							},
 							{
 								"id": 3,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhinirachath.png"
 							}
 						],
 						"availability": "true",
@@ -1732,7 +1736,7 @@
 
 			"categoryId": "C6",
 			"categoryName": "FISH SPECIAL",
-			"categoryImg": "",
+			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [{
@@ -1740,7 +1744,7 @@
 					"categoryId": "C6",
 					"productName": "MEEN POLLICHATH",
 					"productDesc": " ",
-					"productImgUrl": "",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1756,15 +1760,15 @@
 						"variantDesc": "Normal",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 2,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 3,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							}
 						],
 						"availability": "true",
@@ -1785,7 +1789,7 @@
 
 			"categoryId": "C7",
 			"categoryName": "BEEF SPECIAL",
-			"categoryImg": "",
+			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [{
@@ -1793,7 +1797,7 @@
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
 					"productDesc": " ",
-					"productImgUrl": "",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1809,15 +1813,15 @@
 						"variantDesc": "PLATE",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 2,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 3,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							}
 						],
 						"availability": "true",
@@ -1835,7 +1839,7 @@
 					"categoryId": "C7",
 					"productName": "KAPPA BIRIANI",
 					"productDesc": " ",
-					"productImgUrl": "",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1851,15 +1855,15 @@
 						"variantDesc": "PLATE",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 2,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							},
 							{
 								"id": 3,
-								"imgUrl": ""
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
 							}
 						],
 						"availability": "true",
