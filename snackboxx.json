@@ -1744,7 +1744,7 @@
 					"categoryId": "C6",
 					"productName": "MEEN POLLICHATH",
 					"productDesc": " ",
-					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/fishspcl/meen_pollichath.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1789,7 +1789,7 @@
 
 			"categoryId": "C7",
 			"categoryName": "BEEF SPECIAL",
-			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
+			"categoryImg": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg",
 			"availability": "true",
 			"catDesc": " ",
 			"products": [{
@@ -1797,7 +1797,7 @@
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
 					"productDesc": " ",
-					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1813,15 +1813,15 @@
 						"variantDesc": "PLATE",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg"
 							}
 						],
 						"availability": "true",
@@ -1839,7 +1839,7 @@
 					"categoryId": "C7",
 					"productName": "KAPPA BIRIANI",
 					"productDesc": " ",
-					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/kappa_biriani.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -1855,15 +1855,15 @@
 						"variantDesc": "PLATE",
 						"variantImg": [{
 								"id": 1,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/kappa_biriani.jpg"
 							},
 							{
 								"id": 2,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/kappa_biriani.jpg"
 							},
 							{
 								"id": 3,
-								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png"
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/kappa_biriani.jpg"
 							}
 						],
 						"availability": "true",

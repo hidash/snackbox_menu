@@ -6,16 +6,16 @@
 		"tabIcon": "",
 		"viewType":"grid",
 		"tabItems": [ 
-							{"itemId":"C1","itemType":"C","itemName":"SNACKS","itemImg":"","availability": "true"},
-							{"itemId":"C2","itemType":"C","itemName":"PUDDING","itemImg":"","availability": "true"},
-							{"itemId":"C3","itemType":"C","itemName":"DESSERTS","itemImg":"","availability": "true"},
+							{"itemId":"C1","itemType":"C","itemName":"SNACKS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png","availability": "true"},
+							{"itemId":"C2","itemType":"C","itemName":"PUDDING","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg","availability": "true"},
+							{"itemId":"C3","itemType":"C","itemName":"DESSERTS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/mini_chclate_oreo_pudding.jpg","availability": "true"},
 							{"itemId":"C4","itemType":"C","itemName":"CAKES","itemImg":"","availability": "true"},
-							{"itemId":"C5","itemType":"C","itemName":"CHICKEN SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C6","itemType":"C","itemName":"FISH SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C7","itemType":"C","itemName":"BEEF SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C8","itemType":"C","itemName":"VEG SPECIALS","itemImg":"","availability": "true"},
-							{"itemId":"C9","itemType":"C","itemName":"PARTY ORDERS","itemImg":"","availability": "true"},
-							{"itemId":"C10","itemType":"C","itemName":"RICE SPECIALS","itemImg":"","availability": "true"}
+							{"itemId":"C5","itemType":"C","itemName":"CHICKEN SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/chickenspcl/kozhikirachath.png","availability": "true"},
+							{"itemId":"C6","itemType":"C","itemName":"FISH SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/fishspcl/meen_pollichath.jpg","availability": "true"},
+							{"itemId":"C7","itemType":"C","itemName":"BEEF SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/beefspcl/beef_varattu.jpg","availability": "true"},
+							{"itemId":"C8","itemType":"C","itemName":"VEG SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/vegspcl/veg_spcl.jpg","availability": "true"},
+							{"itemId":"C9","itemType":"C","itemName":"PARTY ORDERS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/partyspcl/party_order.jpg","availability": "true"},
+							{"itemId":"C10","itemType":"C","itemName":"RICE SPECIALS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/ricespcl/rice_special.jpg","availability": "true"}
 							
 						]
 					
