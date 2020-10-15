@@ -1788,8 +1788,7 @@
 			"categoryImg": "",
 			"availability": "true",
 			"catDesc": " ",
-			"products": [
-			{
+			"products": [{
 					"productId": "C7P1",
 					"categoryId": "C7",
 					"productName": "BEEF VARATTU",
@@ -1834,7 +1833,7 @@
 				{
 					"productId": "C7P2",
 					"categoryId": "C7",
-					"productName": "KAPPA BIRIANI,
+					"productName": "KAPPA BIRIANI",
 					"productDesc": " ",
 					"productImgUrl": "",
 					"availability": "true",
