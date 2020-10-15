@@ -23,7 +23,7 @@
 					"categoryId": "C1",
 					"productName": "Chatti pathiri",
 					"productDesc": "Chatti pathiri",
-					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png",
+					"productImgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg",
 					"availability": "true",
 					"selectedUnit": {
 						"unitId": "U101",
@@ -40,15 +40,15 @@
 							"variantDesc": "Sweet-Large Version",
 							"variantImg": [{
 									"id": 1,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg"
 								},
 								{
 									"id": 2,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.png"
 								},
 								{
 									"id": 3,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri_3.png"
 								}
 							],
 							"availability": "true",
@@ -66,16 +66,16 @@
 							"dispName": "Chatti pathiri Sweet-Medium",
 							"variantDesc": "Sweet-Medium Version",
 							"variantImg": [{
-									"id": 1,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
-								},
+								"id": 1,
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg"
+							},
 								{
 									"id": 2,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.png"
 								},
 								{
 									"id": 3,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri_3.png"
 								}
 							],
 							"availability": "true",
@@ -93,16 +93,16 @@
 							"dispName": "Chatti pathiri Spicy-Large",
 							"variantDesc": "",
 							"variantImg": [{
-									"id": 1,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
-								},
+								"id": 1,
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg"
+							},
 								{
 									"id": 2,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.png"
 								},
 								{
 									"id": 3,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri_3.png"
 								}
 							],
 							"availability": "true",
@@ -120,16 +120,16 @@
 							"dispName": "Chatti pathiri Spicy-Medium",
 							"variantDesc": "",
 							"variantImg": [{
-									"id": 1,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+								"id": 1,
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg"
 								},
 								{
 									"id": 2,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.png"
 								},
 								{
 									"id": 3,
-									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma.png"
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri_3.png"
 								}
 							],
 							"availability": "true",
