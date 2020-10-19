@@ -6,7 +6,7 @@
 		"tabIcon": "",
 		"viewType":"grid",
 		"tabItems": [ 
-							{"itemId":"C1","itemType":"C","itemName":"SNACKS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png","availability": "true"},
+							{"itemId":"C1","itemType":"C","itemName":"SNACKS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/chattipathiri.jpg","availability": "true"},
 							{"itemId":"C2","itemType":"C","itemName":"PUDDING","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/pudding/caramel_pudding.jpg","availability": "true"},
 							{"itemId":"C3","itemType":"C","itemName":"DESSERTS","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/desserts/choclate_oreo_mousse.png","availability": "true"},
 							{"itemId":"C4","itemType":"C","itemName":"CAKES","itemImg":"https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/cakes/cakes.jpg","availability": "true"},

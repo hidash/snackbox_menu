@@ -80,7 +80,7 @@
 							],
 							"availability": "true",
 							"tag": "most sale",
-							"weight": "850Kg",
+							"weight": "850g",
 							"mrp": 450,
 							"minQty": 1,
 							"offerPrice": 360,
@@ -134,7 +134,7 @@
 							],
 							"availability": "true",
 							"tag": "most sale",
-							"weight": "850Kg",
+							"weight": "850g",
 							"mrp": 450,
 							"minQty": 1,
 							"offerPrice": 360,
@@ -639,9 +639,9 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 100,
-							"offerPrice": 80,
-							"offerPec": 20,
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
 							"minQty": 1,
 							"stock": 100
 						},
@@ -666,17 +666,17 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 200,
-							"offerPrice": 180,
+							"mrp": 300,
+							"offerPrice": 270,
 							"offerPec": 10,
 							"minQty": 1,
 							"stock": 15
 						},
 						{
 							"variantId": "C1P11C",
-							"dispName": "MEEN PATHAL 1 KG",
-							"variantName": "1Kg",
-							"variantDesc": "MEEN PATHAL  1Kg",
+							"dispName": "MEEN PATHAL -Box (500 g)",
+							"variantName": "MEEN PATHAL-Box (500 g)",
+							"variantDesc": "MEEN PATHAL  Box (500 g)",
 							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png"
@@ -693,8 +693,35 @@
 							"availability": "true",
 							"tag": "most sale",
 							"weight": "0",
-							"mrp": 200,
-							"offerPrice": 180,
+							"mrp": 150,
+							"offerPrice": 135,
+							"offerPec": 10,
+							"minQty": 1,
+							"stock": 15
+						},
+						{
+							"variantId": "C1P11C",
+							"dispName": "MEEN PATHAL 1 KG",
+							"variantName": "MEEN PATHAL-1Kg",
+							"variantDesc": "MEEN PATHAL  1Kg",
+							"variantImg": [{
+								"id": 1,
+								"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png"
+							},
+								{
+									"id": 2,
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png"
+								},
+								{
+									"id": 3,
+									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/snacks/bread_pocket_shawarma3.png"
+								}
+							],
+							"availability": "true",
+							"tag": "most sale",
+							"weight": "0",
+							"mrp": 300,
+							"offerPrice": 270,
 							"offerPec": 10,
 							"minQty": 1,
 							"stock": 15
@@ -947,7 +974,7 @@
 					"variants": [{
 							"variantId": "C3P1A",
 							"variantName": "Oreo Desserts Pot",
-							"variantDesc": "Oreo Desserts Pot in disposible glass",
+							"variantDesc": "Oreo Desserts Pot in dismissible glass",
 							"variantImg": [{
 									"id": 1,
 									"imgUrl": "https://raw.githubusercontent.com/hidash/snackbox_menu/master/images/desserts/chclate_oreo_mousse.png"
@@ -1125,7 +1152,7 @@
 							],
 							"availability": "true",
 							"tag": "most sale",
-							"weight": "1.2Kg",
+							"weight": "0",
 							"mrp": 85,
 							"minQty": 1,
 							"offerPrice": 75,
@@ -1178,7 +1205,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "0",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1220,7 +1247,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "0",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1262,7 +1289,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "800ml",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1304,10 +1331,10 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
-						"mrp": 500,
+						"weight": "~1L",
+						"mrp": 450,
 						"minQty": 1,
-						"offerPrice": 400,
+						"offerPrice": 350,
 						"offerPec": 20,
 						"stock": 10
 					}]
@@ -1346,7 +1373,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1388,7 +1415,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1430,7 +1457,7 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
 						"offerPrice": 400,
@@ -1472,11 +1499,11 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
-						"offerPrice": 400,
-						"offerPec": 20,
+						"offerPrice": 450,
+						"offerPec": 10,
 						"stock": 10
 					}]
 				},
@@ -1514,11 +1541,11 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
-						"offerPrice": 400,
-						"offerPec": 20,
+						"offerPrice": 450,
+						"offerPec": 10,
 						"stock": 10
 					}]
 				},
@@ -1559,8 +1586,8 @@
 						"weight": "1.2Kg",
 						"mrp": 500,
 						"minQty": 1,
-						"offerPrice": 400,
-						"offerPec": 20,
+						"offerPrice": 450,
+						"offerPec": 10,
 						"stock": 10
 					}]
 				},
@@ -1598,11 +1625,11 @@
 						],
 						"availability": "true",
 						"tag": "most sale",
-						"weight": "1.2Kg",
+						"weight": "~1L",
 						"mrp": 500,
 						"minQty": 1,
-						"offerPrice": 400,
-						"offerPec": 20,
+						"offerPrice": 450,
+						"offerPec": 10,
 						"stock": 10
 					}]
 				},
@@ -1643,8 +1670,8 @@
 						"weight": "1.2Kg",
 						"mrp": 500,
 						"minQty": 1,
-						"offerPrice": 400,
-						"offerPec": 20,
+						"offerPrice": 450,
+						"offerPec": 10,
 						"stock": 10
 					}]
 				}
@@ -1721,8 +1748,8 @@
 						"availability": "true",
 						"tag": "most sale",
 						"weight": "0",
-						"mrp": 450,
-						"offerPrice": 405,
+						"mrp": 400,
+						"offerPrice": 360,
 						"offerPec": 10,
 						"minQty": 2,
 						"stock": 20
@@ -1755,7 +1782,7 @@
 					},
 					"variants": [{
 						"variantId": "C6P1A",
-						"dispName": "MEEN POLLICHATH",
+						"dispName": "MEEN POLLICHATH - Avoli",
 						"variantName": "Normal",
 						"variantDesc": "Normal",
 						"variantImg": [{
@@ -1774,8 +1801,8 @@
 						"availability": "true",
 						"tag": "most sale",
 						"weight": "0",
-						"mrp": 450,
-						"offerPrice": 405,
+						"mrp": 300,
+						"offerPrice": 270,
 						"offerPec": 10,
 						"minQty": 2,
 						"stock": 20
@@ -1827,8 +1854,8 @@
 						"availability": "true",
 						"tag": "most sale",
 						"weight": "0",
-						"mrp": 450,
-						"offerPrice": 405,
+						"mrp": 300,
+						"offerPrice": 270,
 						"offerPec": 10,
 						"minQty": 2,
 						"stock": 20
@@ -1869,8 +1896,8 @@
 						"availability": "true",
 						"tag": "most sale",
 						"weight": "0",
-						"mrp": 450,
-						"offerPrice": 405,
+						"mrp": 200,
+						"offerPrice": 180,
 						"offerPec": 10,
 						"minQty": 2,
 						"stock": 20
